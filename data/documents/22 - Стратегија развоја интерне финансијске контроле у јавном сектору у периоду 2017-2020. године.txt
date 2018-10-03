@@ -1,0 +1,720 @@
+﻿Na osnovu člana 45. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05-ispravka, 101/07, 65/08, 16/11, 68/12-US, 72/12, 7/14-US i 44/14), 
+
+Vlada donosi
+
+STRATEGIJU
+razvoja interne finansijske kontrole u javnom sektoru u 
+Republici Srbiji
+za period
+2017-2020. godine
+
+Kao deo ukupne reforme javne uprave, Vlada se obavezala da sprovede niz reformskih mera koje su usmerene na unapređenje odgovornosti rukovodilaca i zaposlenih u javnom sektoru, upravljanjem javnim sredstvima u skladu sa principima interne finansijske kontrole, a radi ostvarivanja strateških ciljeva javnog sektora.
+
+Strategija razvoja interne finansijske kontrole u javnom sektoru u Republici Srbiji za period 2017-2020. godine ima za cilj da implementira finansijsko upravljanje i kontrolu i internu reviziju u sveukupni sistem upravljanja u javnom sektoru, radi obezbeđivanja vrednosti za novac građanima Republike Srbije na efektivan, efikasan i ekonomičan način, prenošenjem ciljeva nacionalne politike u ciljeve institucija javnog sektora, što će omogućiti efikasnu procenu rizika u odnosu na definisane ciljeve i uspostavljanje odgovarajućih kontrola. 
+
+
+ 
+1. KRATKI PREGLED
+
+	Interna finansijska kontrola u javnom sektoru predstavlja sveobuhvatan i inovativan pristup upravljanju u javnom sektoru, koji podrazumeva kombinaciju instrumenata za efikasno i efektivno upravljanje javnim resursima, oblikovanje kulture upravljanja i transformaciju društva. 
+	Odgovornost je preduslov za efikasno i efektivno upravljanje javnim sredstvima. Povećanje odgovornosti rukovodilaca i zaposlenih u javnom sektoru je glavni cilj Strategije razvoja interne finansijske kontrole u javnom sektoru u Republici Srbiji za period 2017-2020. godine (u daljem tekstu: Strategija IFKJ), koja predstavlja nadgradnju Strategije razvoja interne finansijske kontrole u javnom sektoru u Republici Srbiji („Službeni glasnik RS”, br. 61/09 i 23/13), sa planom aktivnosti za period 2009-2014. (u daljem tekstu: prethodna Strategija).
+	Iako je napravljen značajan napredak u harmonizaciji postojećih mehanizama interne kontrole u javnom sektoru sa konceptom Interne finansijske kontrole u javnom sektoru (eng. Public Internal Financial Control - PIFC), i dalje postoje izazovi u pogledu potpune i sistematske primene, kako finansijskog upravljanja i kontrole tako i interne revizije od strane korisnika javnih sredstava. Uspostavljeni nivo finansijskog upravljanja i kontrole kod korisnika javnih sredstava je neujednačenog kvaliteta, a konstantno povećanje broja ovlašćenih internih revizora u javnom sektoru i broja uspostavljenih jedinica interne revizije, nije dovoljno doprineo umanjenju slabosti interne kontrole i podizanju upravljačke odgovornosti do optimalnog nivoa. U tom smislu, Centralna jedinica za harmonizaciju (u daljem tekstu: CJH) mora da pruži praktičnu podršku rukovodiocima i ključnim zaposlenima u javnom sektoru koji rade na unapređenju sistema interne kontrole u svojim organizacijama i menjaju način rukovođenja, prelazeći sa pristupa usklađenosti na pristup koji se bazira na učinku i rezultatima. 
+	Strategija IFKJ ima za cilj da ugradi standardnu praksu finansijskog upravljanja i kontrole u redovne procese rukovođenja i funkciju interne revizije kao alat rukovodiocima za dobro upravljanje. Na ovaj način se podržavaju planovi definisani u okviru reforme javne uprave za poboljšanje kontrolnog okruženja i pružanje pomoći korisnicima javnih sredstava u proceni rizika, što omogućava da je rukovođenje u javnom sektoru zasnovano na delotvornim kontrolnim mehanizmima kojima se ublažava rizik i poboljšava ekonomičnost, efikasnost, efektivnost i transparentnost u korišćenju javnih sredstava, bez obzira na izvore finansiranja. 
+	Uklanjanjem nedostataka utvrđenih procesom praćenja primene prethodne Strategije, Strategija IFKJ će dati doprinos kod ispunjavanja konkretnih zahteva koji prate pristupanje Republike Srbije Evropskoj uniji datih u okviru Pregovaračkog poglavlja 32 – Finansijski nadzor. Istovremeno, cilj Strategije IFKJ je da obezbedi ekonomičnu, efikasnu i efektivnu upotrebu javnih sredstava, kao i pružanje kvalitetnijih usluga javne uprave krajnjim korisnicima.
+
+
+
+
+ 
+
+2. UVOD
+
+	Interna finansijska kontrola u javnom sektoru (u daljem tekstu: IFKJ) je sveobuhvatni sistem mera za upravljanje i kontrolu javnih prihoda, rashoda, imovine i obaveza, koji uspostavlja Vlada kroz organizacije javnog sektora sa ciljem da su upravljanje i kontrola javnih sredstava, uključujući i strane fondove, u skladu sa propisima, budžetom i principima dobrog finansijskog upravljanja, odnosno efikasnosti, efektivnosti, ekonomičnosti i otvorenosti. Kao takva ona je bitna komponenta Upravljanja javnim finansijama jer predstavlja kombinaciju instrumenata za efikasno i efektivno upravljanje javnim resursima. IFKJ je takođe instrument kojim se oblikuje kultura upravljanja u javnom sektoru i transformiše društvo. Primena i jačanje odgovornosti podizanjem svesti, jasnim definisanjem uloga i odgovornosti svih učesnika uključenih u izvršavanje poslovnih procedura daju doprinos postizanju ciljeva javnog sektora.
+	IFKJ preduslov je reforme državne uprave, takođe predstavlja instrument koordinacije, provere i usklađivanja pravnih instituta i sredstava njihove primene, pomaže da se unapredi funkcionalnost i delotvornost racionalne, efikasne i moderne državne uprave okrenute ka korisnicima.
+	Odgovornost je preduslov efikasnog i efektivnog upravljanja javnim resursima. Glavni cilj Strategije IFKJ je da omogući povećanje odgovornosti, ne samo rukovodilaca već svih zaposlenih koji imaju određenu ulogu u upravljanju javnim resursima.
+	Posebni ciljevi Strategije IFKJ nadograđuju dostignuća prethodne Strategije. Ona je ugrađena u Program reforme upravljanja javnim finansijama za period 2016-2020. godine i predstavlja ključnu temu u okviru IV stuba – delotvorna finansijska kontrola. Strategija IFKJ je uslovljena realizacijom određenih mera predviđenih Strategijom reforme javne uprave čiji je takođe sastavni deo.
+	U periodu 2004 - 2017. godine, napravljen je značajan napredak u pogledu prilagođavanja i usklađivanja postojećih sistema interne kontrole u javnom sektoru Republike Srbije sa zahtevima koncepta Interne finansijske kontrole u javnom sektoru (eng. Public Internal Financial Control - PIFC) koji je razvila Evropska komisija sa ciljem da zemljama u procesu pridruživanja pruži pomoć u razumevanju i primeni dobro razvijenih i efektivnih sistema interne kontrole, ali i dalje postoje izazovi kod potpune i sistematske primene finansijskog upravljanja i kontrole i interne revizije od strane korisnika javnih sredstava. 
+	Uspostavljeni nivo finansijskog upravljanja i kontrole kod korisnika javnih sredstava je neujednačenog kvaliteta, a konstantno povećanje broja ovlašćenih internih revizora u javnom sektoru i broja uspostavljenih jedinica interne revizije, nije dovoljno doprineo umanjenju slabosti interne kontrole i podizanju upravljačke odgovornosti do optimalnog nivoa. 
+
+
+
+	CJH pruža praktičnu podršku rukovodiocima i zaposlenima kod korisnika javnih sredstava, koji vrše procenu mogućih slabosti svojih sistema interne kontrole, predlaganjem odgovarajućih izmena i pružanjem dodatnih smernica za poboljšanje interne kontrole.
+	Osnovni cilj prethodne Strategija bio je uspostavljanje pravnog okvira i izgradnja minimalnih institucionalnih kapaciteta za realizaciju interne finansijske kontrole u javnom sektoru. Strategija IFKJ je usmerena na uključivanje finansijskog upravljanja i kontrole u procese upravljanja, naročito kao alata za pripremu budžetskih politika, planiranja i izvršenja budžeta. Usmerena je takođe na poboljšanje metodologije definisanja ciljeva, prenošenjem ciljeva nacionalne politike u ciljeve institucija javnog sektora, što je od suštinske važnosti za stvaranje okruženja zdrave interne kontrole. Cilj Strategije IFKJ je, takođe, da obezbedi delotvornu procenu i upravljanje rizikom, koji će poslužiti kao osnova za uspostavljanje kontrola kojima će se umanjiti utvrđeni rizici. Na ovaj način će se doprineti poboljšanju transparentnosti, ekonomičnosti, efikasnosti i efektivnosti u upotrebi javnih sredstava, bez obzira na izvore finansiranja. Pored toga, Strategija IFKJ podržava ,,ex-post” kontrole koju vrše Telo za suzbijanje nepravilnosti i prevara u postupanju sa sredstvima Evropske unije (eng. Anti-fraud Coordination Services - AFCOS) i budžetska inspekcija. Unapređenje ove dve suštinski slične funkcije doprineće poboljšanju funkcionalnosti i delotvornosti ,,ex-post” kontrole u otkrivanju i sprečavanju prevara, u skladu sa zahtevima Evropske unije u okviru Pregovaračkog poglavlja 32 – Finansijski nadzor. 
+	U pogledu interne revizije u javnom sektoru Strategija IFKJ je usmerena na razvoj metodologija i jačanje kapaciteta interne revizije, uključujući povećanje broja internih revizora, uspostavljanje efikasnog i efektivnog sistema praćenja, unapređenja njihove stručnosti i sistematičnog pristupa u kontroli kvaliteta rada, uspostavljanje adekvatnih uslova za rad, prema složenosti i obimu posla koji obavljaju. Neophodno je i dalje podizanje nivoa svesti upravljačkih struktura korisnika javnih sredstava radi ispravnog shvatanja funkcije interne revizije, kako bi je efikasnije koristili kao alat za upravljanje.
+	Strategija IFKJ se bavi poboljšanjem strateškog okvira i unapređenja propisa koji se tiču primene koncepta IFKJ. 
+	Na Drugoj Međuvladinoj konferenciji Republike Srbije i Evropske unije, 14. decembra 2015. godine u Briselu otvoreno je Pregovaračko poglavlje 32 - Finasijski nadzor.
+	Strategija IFKJ se bavi zahtevima koji proističu iz procesa pristupanja Republike Srbije Evropskoj uniji u okviru Pregovaračkog poglavlja 32 – Finansijski nadzor, utvrđenim u Izveštaju o skriningu za Pregovaračko poglavlje 32 – Finansijski nadzor, Zajedničkoj poziciji Evropske unije - Poglavlje 32: Finansijski nadzor i Izveštaju Evropske unije o napretku Republike Srbije za 2016. godinu. U Zajedničkoj poziciji Evropske unije - Poglavlje 32: Finansijski nadzor, navedeni su zahtevi za privremeno zatvaranje Pregovaračkog poglavlja 32 – Finansijski nadzor, kada se ostvari sledeće merilo: ,,Srbija treba da izmeni pravni okvir kako bi obezbedila koherentnost zakonodavstva u oblasti IFKJ. Srbija treba da sprovodi zakonodavstvo u oblasti IFKJ, kao i osnovne politike, i obezbedi dovoljne administrativne kapacitete na centralnom i lokalnom nivou, u fondovima za socijalno osiguranje i u javnim preduzećima. Srbija treba da osigura da funkcija centralizovane budžetske inspekcije bude usklađena sa zahtevima IFKJ”.
+ 
+3. DOSTIGNUTI NIVO RAZVOJA INTERNE FINANSIJSKE KONTROLE U JAVNOM SEKTORU
+
+3.1. REGULATORNI I INSTITUCIONALNI OKVIR
+
+3.1.1. Regulatorni okvir
+	Sistem IFKJ uređen je Zakonom o budžetskom sistemu („Službeni glasnik RS”, br. 54/09, 73/10, 101/10, 101/11, 93/12, 62/13, 63/13-ispravka, 108/13, 142/14, 68/15-dr. zakon, 103/15 i 99/16). Ovim zakonom utvrđene su komponente sistema IFKJ, koga čini: finansijsko upravljanje i kontrola, interna revizija i uloga i odgovornosti CJH. U skladu sa Zakonom usvojeni su podzakonski akti, i to: 
+-	Pravilnik o zajedničkim kriterijumima i standardima za uspostavljanje, funkcionisanje i izveštavanje o sistemu finansijskog upravljanja i kontrole u javnom sektoru („Službeni glasnik RS”, br. 99/11 i 106/13);
+-	Pravilnik o zajedničkim kriterijumima za organizovanje i standardima i metodološkim uputstvima za postupanje i izveštavanje interne revizije u javnom sektoru („Službeni glasnik RS”, br. 99/11 i 106/13); 
+-	Pravilnik o uslovima i postupku polaganja ispita za sticanje zvanja ovlašćeni interni revizor u javnom sektoru („Službeni glasnik RS”, broj 9/14).
+	Propisi o sistemu interne finansijske kontrole u javnom sektoru nalažu uspostavljanje i usaglašavanje sistema interne kontrole sa međunarodno prihvaćenim standardima, izveštavanje o uspostavljanju sistema i proveru kvaliteta aktivnosti sistema interne kontrole. Okvir propisan Zakonom o budžetskom sistemu razrađen je Pravilnikom o zajedničkim kriterijumima i standardima za uspostavljanje, funkcionisanje i izveštavanje o sistemu finansijskog upravljanja i kontrole u javnom sektoru (u daljem tekstu: Pravilnik FUK), Pravilnikom o zajedničkim kriterijumima za organizovanje i standardima i metodološkim uputstvima za postupanje i izveštavanje interne revizije u javnom sektoru (u daljem tekstu: Pravilnik IR) i još detaljnije u Priručniku za finansijsko upravljanje i kontrolu (u daljem tekstu: Priručnik FUK) i Priručniku za internu reviziju (u daljem tekstu: Priručnik IR) Ministarstva finansija – CJH.
+	Korisnici javnih sredstava takođe su dužni da informacije o finansijskom upravljanju i kontroli i internoj reviziji unutar svojih organizacija svake godine dostavljaju ministru finansija preko CJH, radi izrade objedinjenog godišnjeg izveštaja o stanju sistema interne finansijske kontrole u javnom sektoru, koji usvaja Vlada.
+	Program profesionalne obuke, kao i način organizovanja ispita na osnovu kog ministar finansija izdaje sertifikat kandidatu koji je položio ispit za sticanje zvanja ovlašćeni interni revizor u javnom sektoru propisani su Pravilnikom o uslovima i postupku polaganja ispita za sticanje zvanja ovlašćeni interni revizor u javnom sektoru (u daljem tekstu: Pravilnik o sertifikaciji).
+	Izmene i dopune navedenih propisa i pratećih priručnika vrše se po potrebi.
+
+3.1.2. Institucionalni okvir
+	
+	Glavni pokretači uspostavljanja i razvoja sistema interne finansijske kontrole jesu korisnici javnih sredstava i Ministarstvo finansija - CJH. Tokom perioda sprovođenja prethodne Strategije, CJH je radila na pripremi nacrta zakona i propisa i razvoju ljudskih resursa neophodnih za podršku razvoju sistema IFKJ. 
+
+	Finansijsko upravljanje i kontrola
+Za uspostavljanje, održavanje, i redovno ažuriranje sistema finansijskog upravljanja i kontrole odgovorni su rukovodioci korisnika javnih sredstava. Rukovodioci mogu preneti ovlašćenja ali ne i odgovornost, za uspostavljanje, održavanje i redovno ažuriranje sistema finansijskog upravljanja i kontrole, na lica koja oni ovlaste.
+	Rukovodioci korisnika javnih sredstava mogu da imenuju jednog višeg rukovodioca koji će koordinirati rad na uspostavljanju, održavanju i redovnom ažuriranju sistema finansijskog upravljanja i kontrole unutar njihovih organizacija i vršiti koordinaciju između unutrašnjih organizacionih jedinica u ovim organizacijama u cilju daljeg razvoja finansijskog upravljanja i kontrole. 
+CJH je organizovala osnovnu obuku za finansijsko upravljanje i kontrolu, tako da na dan 31. decembra 2016. godine, 1731 rukovodilac i zaposleni u javnom sektoru je prisustvovao obuci.
+	Program osnovne obuke za finansijsko upravljanje i kontrolu sastoji se od četiri oblasti, i to:
+-	uvod u internu finansijsku kontrolu u javnom sektoru;
+-	integrisani okvir interne kontrole ,,COSO” model;
+-	sistem upravljanja rizicima;
+-	upravljački kontrolni sistem.
+	
+	Interna revizija
+	Za uspostavljanje i obezbeđenje uslova za adekvatno funkcionisanje interne revizije odgovoran je rukovodilac korisnika javnih sredstava. Interna revizija korisnika javnih sredstava uspostavlja se na jedan od sledećih načina:
+1)	organizovanjem posebne funkcionalno nezavisne organizacione jedinice za internu reviziju u okviru korisnika javnih sredstava, koja neposredno izveštava rukovodioca korisnika javnih sredstava; 
+2)	organizovanjem zajedničke jedinice za internu reviziju na predlog dva ili više korisnika javnih sredstava, uz prethodnu saglasnost CJH Ministarstva finansija; 
+3)	obavljanjem interne revizije od strane jedinice interne revizije drugog korisnika javnih sredstava, na osnovu sporazuma, uz prethodnu saglasnost CJH Ministarstva finansija. 
+	Izuzetno, kad ne postoje uslovi za organizovanje jedinice za internu reviziju, poslove jedinice za internu reviziju može da obavlja i interni revizor zaposlen kod korisnika javnih sredstava. 
+	Jedinica za internu reviziju ne može imati manje od tri interna revizora od kojih je jedan rukovodilac jedinice za internu reviziju. Broj internih revizora određuje korisnik javnih sredstava internim opštim aktom, na osnovu procene rizika, obima i složenosti poslovnih procesa, obima sredstava kojima raspolaže i broja zaposlenih.
+	Jedinica za internu reviziju i interni revizor funkcionalno i organizaciono su nezavisni i direktno izveštavaju rukovodioca korisnika javnih sredstava. 
+	CJH je organizovala osnovnu obuku za interne revizore tako da na dan 30. decembra 2016. godine 837 kandidata iz javnog sektora je prisustvovalo obuci. Nakon završene praktične obuke za interne revizore, ispit za sticanje zvanja ovlašćeni interni revizor u javnom sektoru, na dan 31. decembra 2016. godine, uspešno je položilo 330 internih revizora, koji poseduju ovlašćenje za rad u svojstvu ovlašćenog internog revizora u javnom sektoru. Tako kvalifikovana lica rade unutar organa centralnih vlasti, fondova obaveznog socijalnog osiguranja, lokalne samouprave i javnih preduzeća. 
+	Program obuke za sticanje profesionalnog zvanja ovlašćeni interni revizor u javnom sektoru obuhvata:
+	1. Osnovnu obuku za finansijsko upravljanje i kontrolu u trajanju od pet radnih dana, odnosno 35 radnih sati, koja se sastoji od četiri oblasti:
+-	uvod u internu finansijsku kontrolu u javnom sektoru;
+-	integrisani okvir interne kontrole ,,COSO” model;
+-	sistem upravljanja rizicima;
+-	upravljački kontrolni sistem.
+	2. Osnovnu obuku za interne revizore u trajanju od sedam radnih dana odnosno 49 radnih sati, koja se sastoji od tri oblasti:
+-	standardi, politike i okruženje interne revizije;
+-	vršenje interne revizije;
+-	veštine i tehnike interne revizije, sa alatima interne revizije.
+	3. Obuku za praktičan rad na internoj reviziji putem obavljanja dve revizije kod korisnika javnih sredstava kod koga je lice, koje se obučava, u radnom odnosu na poslovima interne revizije, uz stručnu pomoć Ministarstva finansija, na način utvrđen Pravilnikom IR.
+	Interna revizija je ustanovljena u svim ministarstvima, u tri fonda obaveznog socijalnog osiguranja, većem broju korisnika javnih sredstava na republičkom nivou i ograničenom broju korisnika javnih sredstava na nivou lokalne samouprave.
+	Unapređenje sistema interne kontrole zahteva dalje jačanje administrativnih kapaciteta, koordinacije svih učesnika IFKJ, kao i dalje obrazovanje i obuku lica odgovornih za finansijsko upravljanje i kontrolu i internih revizora. 
+	Centralna jedinica za harmonizaciju
+	CJH je organizovana u dve grupe, za finansijsko upravljanje i kontrolu i internu reviziju. Od deset radnih mesta predviđenih Pravilnikom o unutrašnjoj organizaciji i sistematizaciji radnih mesta u Ministarstvu finansija na dan 31. decembra 2016. godine je popunjeno devet. Poslove i funkciju CJH obavlja Sektor za internu kontrolu i internu reviziju u Ministarstvu finansija.
+	U pogledu funkcionalne podele poslova u prethodnom periodu, pojedine funkcije su se obavljale u obe grupe. Imajući u vidu obim i složenost poslova koje je trebalo obaviti prema planu aktivnosti iz prethodne Strategije, zaposleni iz grupe za finansijsko upravljanje i kontrolu učestvovali su u obavljanju poslova grupe za internu reviziju i obratno. Zbog ograničenog broja zaposlenih, striktna specijalizacija i podela funkcija po grupama nije mogla biti poštovana, a da to bitno ne utiče na efikasnost i efektivnost sprovođenja zadataka iz akcionog plana.
+	Zakonom o budžetskom sistemu propisano je da CJH radi na harmonizaciji finansijskog upravljanja i kontrole i interne revizije tako što će obavljati poslove:
+1)	centralne harmonizacije, koordinacije, praćenja primene i sagledavanja kvaliteta finansijskog upravljanja i kontrole i interne revizije u javnom sektoru;
+2)	definisanja zajedničkih kriterijuma i standarda za uspostavljanje i funkcionisanje sistema finansijskog upravljanja i kontrole;
+3)	definisanja zajedničkih kriterijuma za organizaciju i postupanje interne revizije u javnom sektoru;
+4)	vođenje registra ovlašćenih internih revizora u javnom sektoru i evidencije povelja interne revizije;
+5)	stručnog usavršavanja, sertifikacije i nadzor nad radom internih revizora;
+6)	stručnog usavršavanja rukovodilaca i zaposlenih u javnom sektoru iz oblasti finansijskog upravljanja i kontrole, u skladu sa međunarodno prihvaćenim standardima;
+7)	objedinjavanja godišnjih izveštaja o stanju finansijskog upravljanja i kontrole i interne revizije.
+
+3.2. ELEMENTI INTERNE FINANSIJSKE KONTROLE U JAVNOM SEKTORU 
+
+3.2.1. FINANSIJSKO UPRAVLJANJE I KONTROLA – SADAŠNJE STANJE
+	
+	Aktivnosti na uspostavljanju i razvoju finansijskog upravljanja i kontrole započete su, prvenstveno kroz izradu propisa i organizaciju obuke. Finansijsko upravljanje i kontrola se definiše kao sistem politika, procedura i aktivnosti koje uspostavlja, održava i redovno ažurira rukovodilac organizacije, a kojim se upravljajući rizicima obezbeđuje uveravanje u razumnoj meri da će se ciljevi organizacije ostvariti na pravilan, ekonomičan, efikasan i efektivan način. 
+	Uvođenje i održavanje sistema finansijskog upravljanja i kontrole predstavlja osnovu za implementaciju koncepta upravljačke odgovornosti. To znači da rukovodioci korisnika javnih sredstava snose odgovornost za preneta finansijska, upravljačka i programska ovlašćenja. Rukovodioci snose odgovornost za planiranje i programiranje (postavljanje i ostvarivanje ciljeva), pripremu budžeta/finansijskog plana, izvršenje budžeta/finansijskog plana, računovodstvo, kontrolu, izveštavanje, arhiviranje računovodstvene i druge dokumentacije i nadzor. Rukovodioci su odgovorni za uspostavljanje i ispravno funkcionisanje sistema finansijskog upravljanja i kontrole u svojim organizacijama.
+	Veliki broj rukovodilaca korisnika javnih sredstava još uvek nije uspeo da uspostavi procedure za primenu određenih procesa rada. Broj rukovodilaca koji je završio obuku u oblasti finansijskog upravljanja i kontrole nije dovoljan, te je samim tim i očigledan nedostatak stvarnog poznavanja svih elementa finansijskog upravljanja i kontrole u javnom sektoru. Ovim se naglašava potreba za podizanjem nivoa znanja o nadležnostima koje postoje u okviru sistema interne kontrole. Rukovodioci nisu dovoljno upoznati sa upravljanjem rizikom i kako ovakvo upravljanje može pomoći njihovoj instituciji da postigne svoje ciljeve, jer samo ograničen broj korisnika javnih sredstava ima planove za upravljanje rizikom i evidenciju o rizicima. Kod upravljanja rizikom gotovo sva pažnja se sada poklanja usklađenosti sa propisima i ne uzimaju se u obzir rizici povezani sa ciljevima organizacije i zato jačanje upravljanja rizikom predstavlja ključni element Strategije IFKJ.
+	Upravljačka odgovornost je definisana Zakonom o budžetskom sistemu, kao obaveza rukovodilaca svih nivoa vlasti kod korisnika javnih sredstava da sve poslove obavljaju zakonito, poštujući principe ekonomičnosti, efektivnosti, efikasnosti i javnosti, kao i da za svoje odluke, postupke i rezultate odgovaraju onome koji ih je imenovao ili im preneo odgovornost. Zakon o budžetskom sistemu je predvideo razdvajanje dužnosti kako bi se sprečio sukob interesa, a upravljačka odgovornost detaljnije je razrađena u Pravilniku FUK. Iako Pravilnik FUK predviđa ovu mogućnost, nadležnosti i odgovornosti u praksi delegirane su u ograničenoj meri a sistemi finansijskog upravljanja i kontrole centralizovani su na višem nivou upravljanja. 
+	Mehanizmi za prenošenje upravljačke odgovornosti koji bi pomogli rukovodiocima korisnika javnih sredstava u regulisanju odgovornosti nižih rukovodilaca u okviru korisnika javnih sredstava za postizanje svojih ciljeva i upravljanje sredstvima koji su im dodeljena za njihovu realizaciju nisu u potpunosti razvijeni, odnosno veza između postizanja ciljeva i sredstava izdvojenih za ostvarivanje tih ciljeva nije uvek direktno prikazana. 
+	Jačanje odgovornosti rukovodilaca zahteva aktivnije učešće svih rukovodilaca u aktivnostima vezanim za pripremu i izvršenje budžeta. 
+	CJH je organizovala radionice za korisnike javnih sredstava o sistemima i procedurama interne kontrole, o pripremi grafičkih prikaza toka rada (revizorski trag) i formiranju registra rizika, od kojih dva poslednja elementa čine ključan deo komponente finansijskog upravljanja i kontrole.
+
+
+
+	Obuka za finansijsko upravljanje i kontrolu sprovodi se na nekoliko nivoa. CJH organizuje jednodnevne obuke za rukovodioce na višim pozicijama. Kursevi obuke od pet dana organizovani su za stručnjake/koordinatore za finansijsko upravljanje i kontrolu i za kandidate za sticanje zvanja ovlašćeni interni revizor u javnom sektoru.
+	Analitičkom obradom godišnjih izveštaja o finansijskom upravljanju i kontroli za 2015. godinu, koji su dostavili korisnici javnih sredstava CJH, od 591 utvrđeno je da su 452 započeli sa popisom i opisom poslovnih procesa, 297 su sačinili mapu poslovnih procesa, a 415 su uspostavili interne kontrole u poslovnim procesima uzimajući u obzir najznačajnije rizike.
+	Za uspostavljanje sistema finansijskog upravljanja i kontrole, korisnici javnih sredstava koristili su Priručnik FUK, tako da su započeli postupak dokumentovanja poslovnih procesa (izrade revizorskog traga) u skladu sa Međunarodnim standardima interne kontrole. 
+
+3.2.2. INTERNA REVIZIJA – SADAŠNJE STANJE
+	
+	Zakon o budžetskom sistemu propisuje da je funkcionalno nezavisna i decentralizovana interna revizija obaveza svih korisnika javnih sredstava. Zakon ne postavlja nikakve rokove za njeno uspostavljanje, polazeći od pretpostavke, da je pitanje roka uspostavljanja interne revizije pitanje svesti i shvatanja koristi ove funkcije od strane rukovodilaca najvišeg ranga kod korisnika javnih sredstava. Zakon definiše internu reviziju kao aktivnost koja pruža nezavisno objektivno uveravanje i savete rukovodstvu, sa svrhom da doprinese unapređenju poslovanja organizacije; pomaže organizaciji da ostvari svoje ciljeve, tako što sistematično i disciplinovano procenjuje i vrednuje upravljanje rizicima, kontrole i upravljanje organizacijom.
+	Pravilnik IR propisuje da korisnici javnih sredstava mogu da uspostave funkciju interne revizije, organizovanjem posebne funkcionalno nezavisne organizacione jedinice za internu reviziju u okviru korisnika javnih sredstava, a obavezno kod ministarstava i korisnika javnih sredstava sa preko 250 zaposlenih; organizovanjem zajedničke jedinice za internu reviziju na predlog dva ili više korisnika javnih sredstava; obavljanjem interne revizije od strane jedinice interne revizije drugog korisnika javnih sredstava na osnovu sporazuma; izuzetno, kad ne postoje uslovi za organizovanje jedinice za internu reviziju, poslove jedinice za internu reviziju može da obavlja i interni revizor zaposlen kod korisnika javnih sredstava.
+	Kod indirektnih korisnika budžetskih sredstava Republike Srbije, koji nisu uspostavili internu reviziju na jedan od propisanih načina, poslove interne revizije vrši jedinica za internu reviziju nadležnog direktnog korisnika budžetskih sredstava, u skladu sa sopstvenim planom rada. Posebna funkcionalno nezavisna organizaciona jedinica za internu reviziju uspostavlja se kod autonomnih pokrajina, grada Beograda, gradova i opština sa pravom obavljanja revizije kod entiteta iz svoje nadležnosti, a na osnovu sopstvenog plana rada.
+
+	Uvođenje i razvijanje ove funkcije zahteva odgovarajuću obuku, sertifikaciju i druge potrebne resurse. U postupku za sticanje zvanja ovlašćeni interni revizor u javnom sektoru polaznici prolaze kroz osnovnu teoretsku obuku, nakon čega prolaze praktičnu obuku u organizaciji Ministarstva finansija CJH. 
+	Analitičkom obradom 295 primljenih godišnjih izveštaja o IR za 2015. godinu, u javnom sektoru Republike Srbije, funkcija interne revizije uvedena je, na dan 31. decembar 2015. godine, u 180 KJS sa sistematizovana 478 i popunjena 373 radna mesta interni revizor.
+	Na nivou Republike, na dan 31. decembar 2015. godine, kod 75 korisnika javnih sredstava uspostavljena je interna revizija sa 259 sistematizovanih i popunjenih 211 radnih mesta za internog revizora. Revizija je uspostavljena u svih 16 ministarstava i tri organizacije obaveznog socijalnog osiguranja. 
+	Na nivou jedinica teritorijalne autonomije i lokalne samouprave, kod 33 je uspostavljena funkcija interne revizije, sa 120 sistematizovanih i popunjenih 77 radnih mesta za internog revizora.
+Izvestan broj pitanja, koja se tiču nezavisnosti i statusa interne revizije, kvaliteta strateških i godišnjih planova interne revizije, broja izvršenih revizija i kvaliteta revizorskih izveštaja, ostaje nerešen. Do sada, interni revizori su se koncentrisali na revizorske ciljeve nižeg ranga. Revizije složenijih sistema u prioritetnim oblastima, kao što su strateško planiranje, programiranje, funkcionisanje informacionih sistema i ostvarivanje najboljih mogućih rezultata u odnosu na uložena sredstva, bile su zanemarene.
+	Korisnici javnih sredstava koji koriste pretpristupne fondove Evropske unije nemaju potreban broj revizora, ali to je deo šireg problema raspoloživosti revizorskih resursa, što možda ukazuje na činjenicu da revizija ne spada među prioritete upravljačkih struktura korisnika javnih sredstava. 
+	Upravljanje IPA fondovima u skladu sa zahtevima Evropske komisije neće biti moguće bez kompetentnih internih revizora kod korisnika javnih sredstava koji učestvuju u implementaciji IPA projekata.
+	Nedostaje šira saradnja između interne revizije i upravljačkih struktura koja predstavlja preduslov za poboljšanje kvaliteta i statusa interne revizije.
+	Kod korisnika javnih sredstava koji su uspostavili internu reviziju sa jednim internim revizorom je 63%, sa dva interna revizora je 14% i sa tri i više internih revizora je 23%. Veliki procenat uspostavljenih internih revizija sa dva i manje izvršioca dovodi u sumnju da se mogu u potpunosti poštovati standardi interne revizije.
+	Postojeća sistematizovana radna mesta za interne revizore nisu u potpunosti popunjena zbog zakonskih ograničenja o maksimalnom broju zaposlenih, nedostatka visokoobrazovanog kadra, niskih zarada, neadekvatnosti sistematizovanih zvanja u odnosu na obim i složenost posla i konkurencije privatnog sektora.
+
+
+
+
+3.2.3. CENTRALNA JEDINICA ZA HARMONIZACIJU – SADAŠNJE STANJE 
+	
+	Centralna jedinica za harmonizaciju je organizovana u dve grupe, grupa za finansijsko upravljanje i kontrolu i grupa za internu reviziju. Od deset radnih mesta predviđenih Pravilnikom o unutrašnjoj organizaciji i sistematizaciji radnih mesta u Ministarstvu finansija, na dan 31. decembra 2016. godine je popunjeno devet. Poslove i funkciju CJH obavlja Sektor za internu kontrolu i internu reviziju u Ministarstvu finansija.
+	Broj sistematizovanih radnih mesta nije dovoljan za realizaciju postojećih poslova koji zahtevaju veću usredsređenost na praćenje napretka ostvarenog u oblasti primene interne finansijske kontrole u javnom sektoru kao i pružanje odgovarajuće praktične savetodavne podrške korisnicima javnih sredstava i organizovanja ispita za sertifikaciju internih revizora. 
+	Centralna jedinica za harmonizaciju suočavala se sa problemima u pogledu kapaciteta tokom prethodnog perioda, uglavnom zbog smanjenja broja zaposlenih i zato što je većina zaposlenih bila angažovana na realizaciji obuke i na programima sertifikacije ovlašćenih internih revizora. Pored toga, radno mesto pomoćnika ministra zaduženog za Centralnu jedinicu za harmonizaciju u Ministarstvu finansija bilo je upražnjeno mesecima. 
+	Na osnovu upitnika koji su primljeni od korisnika javnih sredstava, CJH sastavlja objedinjeni godišnji izveštaj o stanju IFKJ, koji dostavlja ministru nadležnom za poslove finansija. Imajući u vidu zadatak CJH da za potrebe ministra i Vlade sačini objedinjeni godišnji izveštaj o stanju IFKJ na nivou javnog sektora, izveštaji koje izrađuje od 2009. godine, pružaju uvid u globalnu sliku i promenu stanja u oblasti interne kontrole na nivou javnog sektora. Iz navedenog razloga, u izveštaju se ne navode detaljni podaci po svakom korisniku javnih sredstava, u svrhu poređenja promena iz godine u godinu ili prikaza stvarnog statusa sistema interne kontrole kod pojedinačnih korisnika javnih sredstava. Trenutno nema drugih načina prikupljanja informacija niti sistema praćenja, koji bi doprineli godišnjem izveštavanju za korisnike javnih sredstava pojedinačno. U toku je izrada posebnog informatičkog alata – softvera, koji bi u velikoj meri olakšao i automatizovao način prikupljanja upitnika i obrade podataka, koje dostavljaju korisnici javnih sredstava. 
+	Procesi razvijanja svesti i širenje znanja od strane CJH prema svim korisnicima javnih sredstava, olakšani su postavljanjem internet stranice CJH (u okviru stranice Ministarstva finansija) na kojoj se nalaze propisi i materijali o finansijskom upravljanju i kontroli i internoj reviziji, čime se u velikoj meri doprinosi centralnoj harmonizaciji i koordinaciji sistema interne kontrole.
+	U okviru aktivnosti koje preduzima CJH u cilju razvijanja svesti o IFKJ kod svih korisnika javnih sredstava (rukovodioci, zaposleni, interni revizori), tokom prethodnog perioda obavljena je funkcionalna procena odabranih korisnika javnih sredstava, a takođe je organizovano i nekoliko sastanaka i radionica. Ipak, nivo razvijenosti svesti o IFKJ, finansijskom upravljanju i kontroli, internoj reviziji i konkretnoj ulozi CJH i dalje je nedovoljan. Nedostatak informisanja izraženiji je na nivou viših upravljačkih struktura, dok je manje prisutan na nivou srednjih i nižih rukovodilaca.
+	Delokrug poslova iz nadležnosti CJH obuhvata čitav javni sektor, a aktivnosti zasnovane na prethodnoj Strategiji su bile koncentrisane prvenstveno na republički nivo, dok se u ograničenom obimu započelo sa uvođenjem sistema interne kontrole i na nivou lokalne samouprave.
+
+3.3. USKLAĐENOST SA „COSO” OKVIROM
+	
+Komitet sponzorskih organizacija (eng. COSO) Nacionalne komisije za finansijsko izveštavanje o kriminalnim radnjama (proneverama) osnovane u Sjedinjenim Američkim Državama, objavio je 1992. godine dokument pod nazivom Interna kontrola – integrisani okvir, koji je internu kontrolu definisao kao „proces koji sprovode upravni odbor, rukovodstvo i ostali zaposleni, osmišljen tako da pruži razumno uveravanje u ostvarivanje ciljeva” u smislu četiri kategorije:
+•	efektivnost i efikasnost operacija;
+•	pouzdanost finansijskog izveštavanja;
+•	poštovanje važećih zakona i procesa;
+•	zaštita imovine.
+	Pregled usklađenosti sa „COSO” okvirom, zasnovan je na poređenju statističkih podataka koje je CJH obradila, a koji potiču od upitnika za samoocenjivanje korisnika javnih sredstava koji čine sastavni deo godišnjih izveštaja o finansijskom upravljanju i kontroli koji su objavljeni u okviru Konsolidovanih godišnjih izveštaja o internoj finansijskoj kontroli u javnom sektoru.
+	Elementi „COSO” okvira su:
+•	kontrolno okruženje;
+•	upravljanje rizicima;
+•	kontrolne aktivnosti;
+•	informacije i komunikacija;
+•	praćenje (nadzor) i procena.
+	Kontrolno okruženje utvrđuje „ton” u organizaciji i utiče na svest zaposlenih o kontrolama. Predstavlja osnovu za sve druge komponente interne kontrole, obezbeđujući disciplinu i strukturu. Faktori kontrolnog okruženja uključuju integritet, etičke vrednosti i stručnost zaposlenih u organizaciji, filozofiju i stil rada rukovodstva, način na koji rukovodstvo dodeljuje ovlašćenja, odgovornosti i uspostavlja odgovarajuće linije izveštavanja i organizuje i unapređuje kadar. Deo upitnika koji se odnosi na kontrolno okruženje sadrži dvanaest pitanja, tako da je svaki korisnik javnih sredstava mogao iskazati najviše 60 poena. Pitanja se odnose na postojanje i primenu kodeksa ponašanja, merila za utvrđivanje efikasnosti kadrovske politike i postojanje nivoa znanja i veština potrebnih za svako radno mesto, postojanje sistema zaštite imovine od neovlašćenog pristupa i korišćenja, te obaveze redovnog izveštavanja o upravljanju rizicima, internoj kontroli i internoj reviziji.
+
+	Upravljanje rizicima obuhvata identifikovanje, procenu i kontrolu nad potencijalnim događajima i situacijama koje mogu imati suprotan efekat na ostvarenje ciljeva korisnika javnih sredstava. Preduslov upravljanja rizicima je utvrđivanje opštih i specifičnih ciljeva koje organizacija treba da ostvari. Zadatak upravljanja rizicima je da pruži razumno uveravanje da će ciljevi biti ostvareni. Radi upravljanja rizicima, rukovodilac korisnika javnih sredstava treba da donese strategiju upravljanja rizicima, koju treba ažurirati svake tri godine, kao i u slučaju kada se kontrolno okruženje značajnije izmeni. Za svođenje rizika na prihvatljiv nivo, korisnik javnih sredstava mora uspostavljene kontrole da analizira i ažurira najmanje jednom godišnje. Procena rizika obuhvaćena je upitnikom o samoproceni, pitanjima koja se odnose na: definisanje dugoročnih ciljeva poslovanja, upoznavanje zaposlenih sa ciljevima poslovanja, sistem praćenja ostvarivanja ciljeva i analizu uzroka eventualnih odstupanja, identifikaciju i procenu rizika, kao i donošenje odluka radi rešavanja identifikovanih rizika. 
+	Kontrolne aktivnosti obuhvataju pisane politike i procedure, uspostavljene da pruže razumno uveravanje da su rizici za postizanje ciljeva svedeni na prihvatljiv nivo definisan u procedurama za upravljanje rizikom, uključujući i njihovu primenu. One se sprovode u celoj organizaciji, na svim nivoima i funkcijama od strane svih zaposlenih, u skladu sa utvrđenim poslovnim procesom i opisom posla. Procena kontrolnih aktivnosti obuhvaćena je pitanjima da li su pripremljeni: detaljni opisi poslovnih procesa uključujući tok dokumentacije, detaljni opisi radnih postupaka, operativna uputstva, procedure pristupa podacima i evidenciji, kao i pravila podele dužnosti i sprovođenja samoprocene internih kontrola. 
+	Pouzdane informacije i efektivno komuniciranje neophodni su za vođenje i kontrolu poslovanja korisnika javnih sredstava. Upitnikom je obuhvaćena procena postojanja uspešnog i delotvornog unutrašnjeg sistema komunikacija i sistema praćenja ostvarivanja ciljeva korisnika javnih sredstava, procesa evidentiranja grešaka ili žalbi, utvrđivanja razloga i uklanjanja problema, sistema umnožavanja i čuvanja podataka, odnosno povraćaja u slučaju gubitka i mogućnosti zaposlenih da izveštavaju o nepravilnostima i problemima.
+	Praćenje i procena podrazumeva uvođenje sistema za nadgledanje oblasti finansijskog upravljanja i kontrole, ocenom adekvatnosti i efikasnosti njegovog funkcionisanja. Procena ovog elementa sadrži sedam pitanja kojima je obuhvaćeno uspostavljanje strukture izveštavanja namenjene objektivnosti i nezavisnosti interne revizije, saradnja rukovodioca korisnika javnih sredstava i interne revizije, postupanje po preporukama eksternih i internih revizora za unapređenje sistema internih kontrola, postojanje uputstava za postupke u slučaju nedostatka kontrola.
+	Detaljan prikaz procene pojedinih elemenata sistema finansijskog upravljanja i kontrole iz Konsolidovanog godišnjeg izveštaja za 2015. godinu o stanju IFKJ, po pojedinim kategorijama korisnika javnih sredstava, prikazan je u Tabeli 1.
+
+
+
+
+Tabela 1
+Prosečna ocena elemenata sistema FUK po kategorijama KJS za 2015. godinu
+                                            Parametri
+
+
+Kategorije KJS	Kontrolno 
+okruženje
+(maksimalno 
+60 poena)	Upravljanje rizicima (maksimalno
+55 poena)	Kontrolne 
+aktivnosti
+(maksimalno 
+50 poena)	Informisanje i komunikacija
+(maksimalno 
+35 poena)	Praćenje
+nadzor
+i procene (maksimalno
+35 poena)
+	poeni	%	poeni	%	poeni	%	poeni	%	poeni	%
+Centralni
+republički
+nivo	Ministarstva	49 	82	43	78	34	68	27	77	24	69
+	OOSO*	54	90	51	93	47	94	35	100	31	89
+	Ostali**	47	78	42	76	36	72	28	80	19	54
+	Prosek	47	78	42	76	36	72	28	80	19	54
+Lokalni nivo	Lokalna
+samouprava	39	65	37	67	31	62	24	68	16	46
+	Ostali***	43	72	41	75	33	66	27	77	16	46
+	Prosek	41	68	39	71	32	64	26	74	16	46
+PROSEK U RS	43	72	38	69	33	66	26	74	17	49
+-	OOSO* - Organizacije obaveznog socijalnog osiguranja
+-	Ostali** - Korisnici javnih sredstava na centralnom (republičkom) nivou, izuzev ministarstava i OOSO
+-	Ostali*** - Korisnici javnih sredstava na nivou lokalne samouprave izuzev jedinica lokalne samouprave
+	
+     Posmatrano na nivou javnog sektora, rangiranje ocenjivanih elemenata sistema FUK je sledeće: 
+1.	informisanje i komunikacija (74%)
+2.	kontrolno okruženje (72%)
+3.	upravljanje rizicima (69%)
+4.	kontrolne aktivnosti (66%)
+5.	praćenje/nadzor i procena (49%).
+
+3.3.1. Kontrolno okruženje 
+Visoke ocene komponente kontrolnog okruženja ukazuju na postojanje širokog pravnog okvira koji u dobroj meri reguliše organizaciju državne uprave i institucije javnog sektora, delegiranje nadležnosti, linije izveštavanja, etičke standarde i vrednosti kao i upravljanje ljudskim resursima. Ovim se obezbeđuje zaokruženo kontrolno okruženje u kojem je javni sektor održiv i operativan. Postojeći okvir obezbeđuje održivo i delimično ograničeno okruženje za efikasno upravljanje resursima u javnom sektoru. 
+	Ustav Republike Srbije, Zakon o državnoj upravi („Službeni glasnik RS”, br. 79/05, 101/07, 95/10 i 99/14), Zakon o državnim službenicima („Službeni glasnik RS”, br. 79/05, 81/05-ispravka, 83/05-ispravka, 64/07, 67/07-ispravka, 116/08, 104/09 i 99/14), Etički kodeks državnih službenika i Zakon o zaštiti uzbunjivača („Službeni glasnik RS”, broj 128/14), čine osnovni okvir koji obezbeđuje integritet države, državne uprave i državnih službenika, primenjive etičke vrednosti i detaljno propisuje sprečavanje sukoba interesa, prava i dužnosti povezane sa otkrivanjem i izveštavanjem o nepravilnostima i zloupotrebe javnih resursa. Pored toga, pitanja integriteta regulisana su Zakonom o Agenciji za borbu protiv korupcije („Službeni glasnik RS”, br. 97/08, 53/10, 66/11-US, 67/13-US, 112/13 – autentično tumačenje i 8/15-US) koji definiše određena prava i dužnosti uključujući i zahteve kakav je priprema planova integriteta. 
+Osnovni elementi koji su vezani za ovaj princip usvojeni su na nacionalnom nivou. Takođe, planirano je unapređenje pravnog okvira, izmenama kojima će se obezbediti doslednost i poboljšati zakoni koji se tiču integriteta i etičkih vrednosti u okvirima reforme državne uprave i reforme pravosuđa. 
+Mere predviđene Akcionim planom za reformu javne uprave, imaju za cilj da ojačaju integritet i etičke standarde zaposlenih u državnoj upravi i da smanje korupciju jačanjem mehanizama prevencije, poboljšanjem načina na koji se obezbeđuje poštovanje etičkih standarda i integriteta i da povećaju delotvornost zaštite uzbunjivača . Pored toga, Strategija reforme javne uprave („Službeni glasnik RS”, br. 9/14 i 42/14-ispravka) ima za cilj da ojača nadzor u čitavoj državnoj upravi unapređenjem pravnog okvira i kapaciteta Agencije za borbu protiv korupcije, Zaštitnika građana, Poverenika za informacije od javnog značaja i zaštitu podataka o ličnosti i Poverenika za zaštitu ravnopravnosti, kao i kapaciteta Državne revizorske institucije.
+	Zakon o budžetskom sistemu obavezuje korisnike javnih sredstava da uspostave sistem interne kontrole koji obuhvata praćenje i ocenu njihove efikasnosti i efektivnosti.
+	Propisi iz oblasti državne uprave  propisuju da državni organi vrše nadzor nad radom i učinkom ostalih državnih organa i imaoca javnih ovlašćenja u izvršavanju dužnosti koje su im poverene. Unutrašnji nadzor sastoji se iz nadzora rada, inspekcijskog nadzora od strane upravne inspekcije i ostalih oblika nadzora koje regulišu posebni zakoni.
+	Postoje dva osnovna tipa nadzorne prakse u javnom sektoru – nadzor usklađenosti i nadzor svrsishodnosti. Nadzorom usklađenosti proverava se primena zakona i ostalih opštih akata dok se kod nadzora svrsishodnosti ispituje delotvornost i ekonomičnost rada i delotvornost organizacije. 
+	Funkcija nadzora koja se definiše pojedinačnim zakonima, značajno se razlikuje od institucije do institucije. Razlozi za ovo su nedostatak odgovarajućih sredstava za obavljanje delotvornog nadzora, kao i nedostatak kapaciteta nadzornih tela da obavljaju delotvornu kontrolu. 
+	Strategija reforme javne uprave ima za cilj poboljšanje pravnog okvira i institucionalnih kapaciteta za sprovođenje delotvornog nadzora u državnoj upravi Republike Srbije na svim nivoima i nezavisno od vrste nadzora (nadzor unutar organizacije ili nadzor između institucija).
+	Zakon o državnoj upravi utvrđuje principe na osnovu kojih državni organi rade i definiše zadatke državne uprave i organizaciju državnih organa.
+	Uspostavljanje organa i institucija u javnom sektoru utvrđuju se zakonima a njihovi poslovi i funkcije bliže se razrađuju podzakonskim aktima. U skladu sa tim, Uredbom o načelima za unutrašnje uređenje i sistematizaciju radnih mesta u ministarstvima, posebnim organizacijama i službama Vlade („Službeni glasnik RS”, br. 81/07- prečišćen tekst, 69/08, 98/12 i 87/13) načelno su razrađena pravila o unutrašnjem uređenju i sistematizaciji radnih mesta koja se mogu primeniti i na druge korisnike javnih sredstava. 
+	Pojedinačni propisi o unutrašnjem uređenju i sistematizaciji radnih mesta u javnom sektoru su polazna tačka na osnovu koje rukovodioci prenose opis nadležnosti utvrđen Zakonom o ministarstvima i drugim posebnim zakonima, opis posla i nadležnosti zaposlenih u datoj instituciji u unutrašnju organizacionu strukturu.
+	Aktima koji se odnose na organizaciju i sistematizaciju radnih mesta u javnom sektoru utvrđuju se poslovi u okviru nadležnosti zaposlenima u određenoj instituciji, organu ili organizaciji. Ovim aktima obezbeđuje se grupisanje istih ili sličnih međusobno povezanih zadataka i poslova u odgovarajuće unutrašnje jedinice u okviru organa, institucija i organizacija i obezbeđuje javnost u radu tih subjekata.
+	Pomenuti propisi predstavljaju osnovni okvir za utvrđivanje sistema interne kontrole na nivou korisnika javnih sredstava i iz toga razloga povezani su sa relevantnim načelima „COSO” okvira. 
+	Osnovni okvir se dopunjuje primenom propisa koji regulišu upravljanje sredstvima Evropske unije u Republici Srbiji. Uredba u upravljanju programima pretpristupne pomoći Evropske unije u okviru komponente I Instrumenta pretpristupne pomoći (IPA) – Pomoć u tranziciji i izgradnja institucija za period 2007-2013. („Službeni glasnik RS”, broj 140/14), Odluka o određivanju odgovornih lica i tela u sistemu za upravljanje programima pretpristupne pomoći Evropske unije za period 2007-2013. godine („Službeni glasnik RS”, br. 140/14 i 105/16), Uredba o upravljanju programima pretpristupne pomoći Evropske unije u okviru Instrumenta za pretpristupnu pomoć (IPA II) 2014-2020. godine („Službeni glasnik RS”, broj 86/15) i Odluka o određivanju lica i tela za upravljanje programima pretpristupne pomoći Evropske unije u okviru instrumenta za pretpristupnu pomoć (IPA II) za period 2014-2020. godine („Službeni glasnik RS”, br. 93/15 i 105/16), utvrđuju strukturu, linije izveštavanja, ovlašćenja i nadležnosti svih aktera u državnoj upravi Republike Srbije koji učestvuju u upravljanju pretpristupnim programima pomoći Evropske unije. 
+	Uredba o određivanju tela za reviziju sistema upravljanja programima pretpristupnim pomoći Evropske unije u okviru instrumenta pretpristupne pomoći (IPA) dodatno definiše ulogu i nadležnosti revizorskog tela koje će vršiti reviziju fondova Evropske unije („Službeni glasnik RS”, broj 113/13).
+	Zakonska i podzakonska akta koja se odnose na oblast rada propisuju da se broj potrebnih zaposlenih, kao i uslovi zapošljavanja na radna mesta u organima, institucijama i organizacijama određuju aktima o organizaciji i sistematizaciji radnih mesta. 
+
+
+
+	Korisnici javnih sredstava pripremaju kadrovski plan u kome se definiše potreban broj radnih mesta za svaku budžetsku godinu u zavisnosti od sredstava koja su im na raspolaganju. Kriterijumi za popunjavanje radnih mesta propisani su Pravilnikom o stručnim osposobljenostima, znanjima i veštinama koje se proveravaju u izbornom postupku, načinu njihove provere i merilima za izbor na radna mesta („Službeni glasnik RS”, br. 79/05, 81/05-ispravka i 83/05-ispravka), odobrenog od strane Službe za upravljanje kadrovima.
+	Propisi koji regulišu radne odnose u javnom sektoru, predviđaju da u slučaju potrebe, rukovodilac koji upravlja organom može dodeliti zaposlenom i druge poslove koji nisu navedeni u opisu njegovog radnog mesta, a koji odgovaraju njegovim kvalifikacijama i stručnosti.
+	Propisi iz radnih odnosa u organima državne uprave definišu način zapošljavanja, dodeljivanja zadataka i ocene državnih službenika. Jasna definicija pojedinačnih ciljeva i njihova veza sa ciljevima institucije ključni su za primenu i jačanje upravljačke odgovornosti, što predstavlja osnovu za delegiranje nadležnosti koja obezbeđuje viši nivo odgovornosti državnih službenika.
+	Postojeći propisi koji regulišu zapošljavanje i radne odnose nisu fleksibilni i ograničavaju ovlašćenja rukovodilaca kod korisnika javnih sredstava koja se tiču upravljanja ljudskim resursima.
+	Ovi propisi zaposlene obavezuju  da se profesionalno usavršavaju u skladu sa potrebama organa i konkretnim uslovima njihovog radnog mesta. Sredstva za napredne programe profesionalnog obučavanja obezbeđuju se iz budžeta Republike Srbije na osnovu programa kojima se utvrđuje metod i vrsta naprednih programa profesionalnog obučavanja. Propisi koji regulišu radne odnose u javnom sektoru utvrđuju da zaposleni u institucijama, organima i organizacijama, što se odnosi i na imenovana lica, moraju da pohađaju napredne programe profesionalnog obučavanja tokom trajanja njihovog radnog angažovanja, i učestvuju u svim oblicima napredne profesionalne obuke koju organizuje institucija u kojoj su zaposleni ili gde su prešli privremeno da rade.
+	Profesionalni razvoj zaposlenih sistematično su dobro razvijani u državnoj upravi, dok se raspoređivanje i zapošljavanje ovih službenika i dalje vrši prema povremenoj proceni potreba, a ne na osnovu analize stvarnog obima posla. 
+	Javnom sektoru nedostaje jasna i održiva politika zadržavanja zaposlenih i zbog čega je otežano održavanje kontinuiteta poslovanja jer kvalifikovani profesionalni službenici napuštaju javni sektor ili se premeštaju iz jedne javne institucije u drugu radi ostvarenja boljih radnih uslova od kojih povećanje plate igra značajnu, ali ne i ključnu ulogu.
+	Programi za profesionalno obučavanje rukovodilaca u javnom sektoru koji su realizovani od strane Službe za upravljanje kadrovima imaju pozitivan uticaj na razvoj i poboljšanje veština u rukovođenju operativnih rukovodilaca. Međutim, i dalje je potrebno ulagati napore u izgradnju održive i stabilne upravljačke strukture u državnoj upravi. 
+	Ministarstvo državne uprave i lokalne samouprave preuzelo je vodeću ulogu u unapređivanju postojećeg sistema upravljanja ljudskim resursima , uspostavljanjem okvira politika za strateško upravljanje ljudskim resursima i poboljšanjem postojećih instrumenata upravljanja ljudskim resursima, unapređenjem i jačanjem institucionalnog okvira za primenu strateške funkcije upravljanja ljudskim resursima i uvođenjem mera za sprečavanje „politizacije” zapošljavanja, osipanja kvalitetnih državnih službenika kako bi se privukli i zadržali kvalifikovani profesionalci, uspostavljanjem koordiniranog sistema radnih odnosa i plata . Uspeh u primeni ove mere reforme državne uprave daće svoj doprinos u obezbeđenju stručne radne snage, ali i stručnog upravljačkog kadra. 
+Uprkos tome što postoji pravni okvir koji predstavlja osnov za odgovorno ponašanje u javnom sektoru, rukovodioci nižeg nivoa i ostali zaposleni obavljaju poverene zadatke samo u određenom stepenu što je posledica njihove nemogućnosti da preuzmu punu odgovornost za obavljanje delegiranog zadataka, aktivnosti i drugih nadležnosti. Neravnoteža u „trouglu odgovornosti” je česta u svim delovima javnog sektora jer delegirane nadležnosti nisu praćene neophodnim resursima potrebnim za njihovo obavljanje. 
+	Ministarstvo državne uprave i lokalne samouprave obavlja koordinaciju organizacionog i funkcionalnog restrukturiranja državne uprave da bi se došlo do odgovarajuće veličine u smislu broja i adekvatnosti institucija, broja zaposlenih, radnih mesta i da bi se poboljšali procesi rada i organizaciona struktura . Deo napora koji se ulažu u ostvarivanje ove mere tiče se unapređenja okvira za odgovornost rukovodilaca u skladu sa načelima državne uprave  kao i uspostavljanja okvira za upravljanje učinkom, odnosno rezultatima rada, a koji će konsolidovati sve postojeće elemente upravljanja rezultatima rada u dosledan sistem upravljanja učinkom, odnosno rezultatima rada . 
+	U skladu sa aktivnostima koje se realizuju u cilju jednostavnijeg planiranja i programiranja svih javnih sredstava do najvećeg mogućeg stepena, i izgradnje jedinstvenog, konsolidovanog sistema finansijskog upravljanja u javnom sektoru, posebno će se obratiti pažnja na pojednostavljivanje procedura za upravljanje i kontrolu programa pretpristupne pomoći Evropske unije i sredstava iz budžeta Republike Srbije kako bi se obezbedila zdrava osnova za buduće upravljanje strukturnim instrumentima Evropske unije. 
+	Ovo predstavlja ključnu tačku dugoročne reformske aktivnosti jer ima za cilj da obezbedi uspostavljanje pouzdanog kontrolnog okruženja koje će garantovati postojanje optimalnog okvira koji će omogućiti korisnicima javnih sredstava da izvršavaju svoje odobrene budžete i ostala sredstva koja su im dodeljena na efikasan i efektivan način i u skladu sa principima pouzdanog finansijskog upravljanja.
+
+3.3.2. Procena rizika
+	
+	Zakon o državnoj upravi obavezuje ministarstava i posebne organizacije da pripremaju svoje godišnje planove rada na osnovu kojih se priprema godišnji plan rada Vlade.
+	Poslovnik Vlade („Službeni glasnik RS”, br. 61/06 – prečišćeni tekst, 69/08, 88/09, 33/10, 69/10, 20/11, 37/11, 30/13 i 76/14) propisuje da Vlada usvaja Godišnji plan rada, utvrđuje ciljeve i aktivnosti Vlade, kao i ciljeve i aktivnosti državnih organa i očekivane rezultate. Ovaj plan priprema se na osnovu godišnjih planova rada državnih organa pripremljenih u skladu sa metodologijom planiranja na srednji rok koja se podnosi Generalnom sekretarijatu putem informacionog sistema za planiranje i izveštavanje. Vlada usvaja Godišnji izveštaj o radu u kojem se ocenjuje realizacija Godišnjeg plana rada i ostalih aktivnosti koje su realizovane a nisu prethodno bile predviđene planom rada. Godišnji izveštaj o radu podnosi se Narodnoj skupštini. 
+	Metodologije koje propisuje Evropska komisija, a koje regulišu planiranje i realizaciju programa pomoći Evropske unije putem instrumenta pretpristupne pomoći (IPA) pozitivno su uticale na izmene i unapređenje sistema planiranja i upravljanja sredstvima budžeta Republike Srbije. Slično izmenjenom Višegodišnjem indikativnom planskom dokumentu za period 2011-2013. godine, trogodišnjem planskom dokumentu koji je pripremila Evropska komisija za zemlje korisnice IPA fondova u kome su definisani ciljevi politika u skladu sa Strategijom proširenja Evropske unije i u skladu sa „sektorskim pristupom”, državni organi u Republici Srbiji pripremili su Dokument o proceni potreba za međunarodnom pomoći, trogodišnji indikativni planski dokument u kome su sakupljeni prioriteti preuzeti iz brojnih strategija koje su postojale u različitim sektorima i koji su zatim usklađeni sa prioritetima u Višegodišnjem indikativnom planskom dokumentu.
+	Nacionalni program ekonomskih reformi, čija je priprema jedan od uslova za pristupanje Evropskoj uniji, a koji je zamenio prethodni Pretpristupni ekonomski program i koji je obuhvatio veliki deo Dokumenta o proceni potreba, predstavlja novi podstrek ekonomskom planiranju i planiranju sektorskih politika u Republici Srbiji gde su u fokusu razvoj konkurentnosti i ekonomski rast.
+	Republika Srbija je pripremila drugi Program ekonomskih reformi za period 2016-2018. godinu koordiniranim radom relevantnih aktera. Vlada ga je usvojila u februaru 2016. godine. 
+	Kao deo ukupne reforme javne uprave, Vlada nastoji da uspostavi jedinstveni sistem za upravljanje javnim politikama koji će unaprediti kvalitet kao i doslednost javnih politika u skladu sa usvojenim standardima i poboljšati srednjoročno planiranje i planiranje na godišnjem nivou u javnom sektoru na osnovu prioriteta Vlade, istovremeno povećavajući transparentnost upravljanja javnim politikama . 
+	Rezultati ovih mera postaviće osnove za definisanje odgovarajućeg obima nadležnosti jedinica za analizu i planiranje na nivou korisnika javnih sredstava i za njihovo dalje jačanje za potrebe planiranja politika i budžeta , kao i za koordinaciju finansijskog upravljanja i kontrole na nivou institucija.
+	Zakon o budžetskom sistemu obavezuje korisnike javnih sredstava da uspostave sistem finansijskog upravljanja i kontrole koji, između ostalog, obuhvata upravljanje rizikom. Pravilnik FUK definiše upravljanje rizikom kao određeni obim aktivnosti koje se realizuju u cilju otkrivanja, procene i kontrole mogućih događaja i situacija koje mogu da imaju negativan uticaj na ostvarivanje ciljeva korisnika javnih sredstava, uz zadatak da se obezbedi razumno uveravanje da će ciljevi organizacije biti ostvareni. 
+	Rukovodioci korisnika javnih sredstava imaju obavezu da usvoje strategiju upravljanja rizikom koju treba ažurirati svake tri godine i prilagode je svakoj većoj promeni kontrolnog okruženja. 
+	Kontrola kojom se rizik smanjuje na prihvatljiv nivo mora biti analizirana i ažurirana najmanje jednom godišnje. Upravljanje rizicima podrazumeva uvođenje odgovarajuće kontrole za ublažavanje rizika, a u skladu sa međunarodnim standardima interne kontrole.
+Korisnici javnih sredstava u praksi procenjuju razne vrste rizika kojima je izložena njihova institucija više na „intuitivnoj” osnovi nego primenom propisane metodologije, usredsređujući se na procenu rizika koji su povezani sa usklađenošću rada i zakona, a ne na rizike koji utiču na njihove rezultate rada. 
+	Upravljanje rizikom primenjuju svi korisnici javnih sredstava ali do nižeg nivoa složenosti. Uprkos činjenici da je već uspostavljen opšti okvir, korisnicima javnih sredstava treba dodatna pomoć pri otkrivanju rizika, jer se rizici uglavnom utvrđuju i procenjuju u odnosu na zakonom propisane uslove, a ne u odnosu na ciljeve same organizacije.
+	Sprečavanje prevara, odnosno suzbijanje prevara predstavljaju sastavni deo procesa upravljanja rizicima.
+	Državna uprava, sprovodi aktivnosti koje će omogućiti uspostavljanje sistema procene rizika od prevara na osnovu relevantnih smernica i sugestija Evropske kancelarije za borbu protiv prevara (eng. European Anti-Fraud Office - OLAF), a koje su prvenstveno usmerene ka proceni rizika od prevara kod upravljanja fondovima Evropske unije.
+Mere koje su vezane za procenu rizika od prevara u pogledu upravljanja fondovima Evropske unije, u cilju maksimalne zaštite finansijskih interesa Evropske unije biće obrađene u okviru strategije za borbu protiv prevara  koja je trenutno u poslednjoj fazi izrade. 
+
+
+
+
+	Sa izuzetkom nekoliko javnih institucija koje su uspostavile funkcionalan sistem finansijskog upravljanja i kontrole, kao i posebno prilagođen sistem praćenja za utvrđivanje i procenu promena koje mogu uticati na sistem interne kontrole, kada je reč o utvrđivanju i rešavanju slabosti interne kontrole, većina korisnika javnih sredstava oslanja se na izveštaje svojih internih revizora ili svojih jedinica za internu reviziju kao i na nalaze i preporuke Državne revizorske institucije i njihovih godišnjih revizorskih izveštaja.
+3.3.3. Aktivnosti kontrole
+	Uvođenje i realizacija aktivnosti kontrole kod korisnika javnih sredstava u većini slučajeva, uvedena je da smanji rizike povezane sa usklađenošću rada sa zakonima, a ne one koji prete ostvarivanju ciljeva korisnika javnih sredstava.
+	Zakonima je propisana osnovna finansijska i administrativna kontrola kojom se obezbeđuju efikasni i efektivni procesi rada. 
+	Zakon o budžetskom sistemu predviđa razdvajanje dužnosti u kombinaciji sa podelom nadležnosti kao osnovni princip sprečavanja pristrasnosti i sukoba interesa. Pored toga, posebne odredbe koje se tiču finansijske kontrole mogu se pronaći i u drugim pravnim aktima kao što je Uredba o budžetskom računovodstvu („Službeni glasnik RS”, br. 125/03 i 12/06) koja uređuje način upravljanja konsolidovanim sistemom trezora, kao i druga posebna akta i uputstva koje donosi ministar finansija, a koji se odnose na budžetsko računovodstvo i finansijsko izveštavanje organa državne uprave. Ova akta definišu način pripreme, sačinjavanja i podnošenja završnih godišnjih izveštaja svih budžetskih korisnika i sadrže posebne odredbe koje se tiču finansijske kontrole.
+	Finansijska kontrola predstavlja sastavni deo ukupnih aktivnosti kontrole i kao takva od suštinske važnosti je za obezbeđenje efikasnih i efektivnih procesa rada. Potrebno je uložiti dodatne napore u definisanje konkretnih aktivnosti kontrole za ublažavanje rizika i njihovo uključivanje u redovne procese rada.
+	Aktivnosti kontrole su u porastu, ali i pored toga mora se vršiti preusmeravanje korisnika javnih sredstava sa rizika po usklađenost ka operativnim rizicima, na osnovu smernica CJH.
+	Cilj javne uprave je prelazak na e-vladu i e-upravu, te je u programu reforme državne uprave uvedena i posebna grupa aktivnosti koja se realizuje u cilju razvoja i unapređenja elektronske uprave u celom javnom sektoru i istovremeno sadrži nove i naprednije tehnike kontrole koje će se uvesti širom javnog sektora u skladu sa ciljevima Strategije razvoja elektronske uprave. 
+3.3.4. Informisanje i komunikacija
+	Korisnici javnih sredstava sačinjavaju izveštaje za internu i eksternu upotrebu koji su sastavni deo sistema interne kontrole. Izveštaji o stanju upravljanja ljudskim resursima, izveštaji o postignutim ciljevima, itd., redovno se pripremaju u različitim vremenskim okvirima, zarad potrebe rukovodeće strukture. Ti izveštaji sadrže informacije o upravljanju sistemima interne kontrole ali u većini slučajeva, nisu izdvojene u posebnim izveštajima o internim kontrolama. 
+	Više rukovodstvo retko koristi instrumente poput upitnika za samoocenjivanje, obzirom da rukovodioci još uvek nisu spoznali sveobuhvatni značaj alata za internu kontrolu. Bez obzira na velike napore koje ulaže CJH u obuke visokog i srednjeg rukovodstva na temu finansijskog upravljanja i kontrole, svest o njihovim koristima i dalje nije na optimalnom nivou. 
+	Korisnici javnih sredstava pripremaju upitnik za samoocenjivanje kako bi ga dostavili CJH kao deo godišnjeg izveštaja o sistemu finansijskog upravljanja i kontrole. Upotreba upitnika za samoocenjivanje je najčešće ograničena na ispunjenje obaveza koje se odnose na izveštavanje prema CJH.
+	U skladu sa svojim potrebama, rukovodioci korisnika javnih sredstava organizuju i uređuju interno izveštavanje na nivou institucija. Priručnik FUK, daje smernice korisnicima javnih sredstava da formiraju Radnu grupu za finansijsko upravljanje i kontrolu u okviru upravljanja redovnim aktivnostima interne kontrole.
+	Najčešći metod koordinacije razmene informacija u okviru korisnika javnih sredstava jesu redovni sastanci organizovani između višeg rukovodstva i srednjeg rukovodstva institucija (takozvani kolegijumi). Rukovodioci korisnika javnih sredstava ih u većini slučajeva redovno organizuju da bi se pratilo sprovođenje plana rada institucije i da bi se rešavali trenutni problemi, kao i za planiranje rada institucije u periodu između dva sastanka. Tokom ovih sastanaka razgovara se i o pitanjima interne kontrole, ali ne nužno na jedan dosledan i sistematičan način, i uglavnom se odnose na pitanja koja su vezana za zaposlene, praćenje rashoda, i slična pitanja. Generalno, obim pitanja interne kontrole o kojima se diskutuje na ovim sastancima je direktno srazmeran nivou razvoja i stanja svesti koji se odnosi na koristi i značaj finansijskog upravljanja i kontrole unutar institucije.
+	CJH će i dalje pružati podršku rukovodiocima korisnika javnih sredstava da bi bolje razumeli sve koristi od potpuno funkcionalnog sistema finansijskog upravljanja i kontrole, koji je kao takav uspostavljen da bi pomogao upravljanju institucijom. U tom smislu, CJH će i pored edukacije rukovodilaca korisnika javnih sredstava o formalnim i zakonskim zahtevima koji se odnosne na finansijsko upravljanje i kontrolu i internu reviziju, pojašnjavati na koji način se alati za finansijsko upravljanje i kontrolu mogu koristiti za prikupljanje, obradu i saopštavanje informacija o upravljanju sistemom interne kontrole, a sve u cilju unapređenja poslovanja i opšteg funkcionisanja i efektivnosti institucija kojima upravljaju. 
+	Pravilnik FUK propisuje da je rukovodilac korisnika javnih sredstava dužan da dostavi izveštaj Ministarstvu finansija (preko CJH) o stepenu adekvatnosti i funkcionisanja uspostavljenih sistema finansijskog upravljanja i kontrole, do 31. marta tekuće godine za prethodnu godinu, u formi koju je propisala CJH.
+Povećanje stepena transparentnosti i vidljivosti rada korisnika javnih sredstava biće rešeno merama koje su sadržane u Akcionom planu za sprovođenje reforme javne uprave.
+
+
+3.3.5. Aktivnosti praćenja 
+
+	Interna revizija predstavlja aktivnost koja pruža nezavisno i objektivno uveravanje, kao i savete rukovodstvu u cilju unapređenja rezultata organizacije pri postizanju sopstvenih ciljeva kroz sistematičnu evaluaciju i ocenjivanje sistema interne kontrole koje je uspostavilo rukovodstvo korisnika javnih sredstava.
+	Zakon o budžetskom sistemu propisuje da su korisnici javnih sredstava obavezni da uspostave funkciju interne revizije, dok su zahtevi i načini za uspostavljanje organizacione strukture i za primenu standarda propisani Pravilnikom IR.
+	Zakon o budžetskom sistemu, takođe, propisuje da je funkcionalno nezavisna i decentralizovana interna revizija obavezna za sve korisnike javnih sredstava na svim nivoima vlasti, ali ne uspostavlja nikakve rokove za njeno uvođenje, uzimajući kao polaznu osnovu pretpostavku da davanje roka za uspostavljanje interne revizije predstavlja pitanje nivoa svesti i razumevanja koristi koje više rukovodstvo korisnika javnih sredstava može da ima od njenog uspostavljanja. 
+	Pravilnik IR propisuje da korisnik javnih sredstava može da uspostavi funkciju interne revizije kroz organizovanje posebne funkcionalno nezavisne organizacione jedinice, što je obavezno za sva ministarstva i korisnike javnih sredstava koji imaju više od 250 zaposlenih; kroz organizovanje zajedničke jedinice za internu reviziju na predlog dva ili više korisnika javnih sredstava; kroz obavljanje interne revizije od strane jedinice interne revizije drugog korisnika javnih sredstava, na osnovu sporazuma; i u izuzetnim okolnostima, ukoliko nije moguće da se uspostavi jedinica za internu reviziju, onda funkciju interne revizije može takođe da vrši interni revizor koji je zaposlen kod tog korisnika javnih sredstava.
+	Poslove interne revizije kod indirektnih budžetskih korisnika koji nisu uspostavili funkciju interne revizije ni na jedan od gore opisanih načina vrši nadležna jedinica za internu reviziju nadležnog direktnog budžetskog korisnika, u skladu sa njenim planom rada.
+	Posebna funkcionalno nezavisna organizaciona jedinica za internu reviziju je uspostavljena i kod autonomnih pokrajina, grada Beograda i gradova, i ima ovlašćenja da vrši poslove interne revizije u datom organu u okviru nadležnosti i u skladu sa planom rada.
+	Godišnji izveštaji o obavljenim revizijama i aktivnostima interne revizije koji su dostavljeni CJH pružaju informacije o specifičnim nedostacima interne kontrole kod korisnika javnih sredstava koji treba da se reše. Pored nedostataka koji se odnose na sisteme interne kontrole, javne nabavke i računovodstvo i izveštavanje predstavljaju dve dodatne kritične oblasti koje treba u smislu praktične primene propisa da reše i korisnici javnih sredstava, a vodeće sektorske institucije na nacionalnom nivou koje koordiniraju aktivnosti u ovim oblastima treba da ih reše u smislu detaljnog analiziranja i rešavanja svih ovih nedostataka . 
+	Pojedini korisnici javnih sredstava još uvek nisu uspostavili funkciju interne revizije. Glavni razlozi su nedovoljan broj kandidata za interne revizore sa propisanim kvalifikacijama; niske plate; platni razredi koji su neadekvatni obimu i kompleksnosti posla; nedovoljno sredstava i konkurentnost privatnog sektora. Osim toga, u godišnjim izveštajima naveden je nedostatak intenzivnije saradnje između internih revizora i njihovih rukovodilaca, što zapravo predstavlja preduslov za efektivnu internu reviziju.
+	Funkcionalna nezavisnost internih revizora kod korisnika javnih sredstava je direktno srazmerna sveobuhvatnom opštem razumevanju rukovodstva korisnika javnih sredstava koje se odnosi na uloge i koristi od interne kontrole, i zato što rukovodioci korisnika javnih sredstava bolje razumeju ulogu internih revizora u pružanju nezavisnih i objektivnih mišljenja i saveta o kvalitetu i funkcionisanju sistema interne kontrole. Na ovaj način će se osigurati veći stepen funkcionalne nezavisnosti funkcije interne revizije unutar tih institucija, čime će se doprineti većem kvalitetu izveštaja internih revizora. Rešavanje ovih pitanja zahteva stalnu podršku koju CJH treba da pruža korisnicima javnih sredstava u njihovim naporima da se poveća svest o internim kontrolama, kao i njihovo razumevanje, i stalnog proaktivnog pristupa internih revizora u edukaciji i podizanju svesti rukovodilaca o njihovoj ulozi i dodatnoj vrednosti koju oni daju njihovim opštim upravljačkim naporima.
+	Do kraja 2016. godine sertifikovano je 330 ovlašćenih internih revizora u javnom sektoru, u skladu sa Pravilnikom o sertifikaciji. Pravilnikom o sertifikaciji nije predviđeno priznavanje stečenih kvalifikacija u strukovnim organizacijama internih revizora koje su priznate na nacionalnom i međunarodnom nivou.
+	Preduzet je inicijalni korak u smislu analize profesionalnih računovodstvenih i revizorskih organizacija, čiji programi za sertifikaciju ispunjavaju zahteve programa obuke koji vrši CJH zbog potencijalnog priznavanja sertifikata i zbog širenja kruga potencijalnih predavača koji će se u budućnosti angažovati da realizuju aktivnosti obuke koje je sprovodi CJH.
+	Korisnici javnih sredstava koji koriste pretpristupne fondove Evropske unije nemaju neophodan broj revizora, odnosno revizora koji dobro znaju zahteve Evropske unije koji se odnose na upravljanje pretpristupnim sredstvima. Stalni i koordinisani napori CJH i Kancelarije za reviziju sistema upravljanja sredstvima Evropske unije ulažu se u pripremu i sprovođenje obuka za interne revizore kod korisnika javnih sredstava koji su korisnici pomoći koja je finansirana od strane Evropske unije kako bi se podigla njihova svest o upravljanju sredstvima Evropske unije i pojačali njihovi tehnički kapaciteti za vršenje revizija uspostavljenih struktura za upravljanje sredstvima Evropske unije u okviru njihovih institucija u skladu sa zahtevima uspostavljenim u Uredbi o upravljanju programima pretpristupne pomoći Evropske unije u okviru komponente I Instrumenta pretpristupne pomoći (IPA) – Pomoć u tranziciji i izgradnja institucija za period 2007-2013. godine i Uredbi o upravljanju programima pretpristupne pomoći Evropske unije u okviru instrumenta za pretpristupnu pomoć (IPA II) za period 2014-2020. godine. 
+
+
+
+	Osnovni cilj kontrole kvaliteta je da se oceni kvalitet uspostavljenih funkcija interne revizije kod korisnika javnih sredstava sa ciljem da se unaprede postojeće prakse u skladu sa Međunarodnim standardima profesionalne prakse interne revizije. Eksterna ocena kvaliteta se usredsređuje na vrednovanje upitnika za samoocenjivanje internih revizora kroz prethodnu proveru dokumenata, kao i kroz direktne posete da bi se utvrdila ne samo usklađenost sa zakonima, definicijama interne revizije, standardima koji se primenjuju i Etičkim kodeksom, veći i da se oceni efikasnost i efektivnost internih revizora i da bi se identifikovale potencijalne mogućnosti za unapređenje. 
+4.	STRATEŠKI CILJEVI
+	
+	Finansijsko upravljanje i kontrola i interna revizija predstavljaju osnov za internu kontrolu, sprovođenje aktivnosti koje su predviđene Strategijom IFKJ direktno zavise od napretka koji je učinjen u specifičnim oblastima, koje su obuhvaćene Strategijom reforme javne uprave i u mnogome će zavisiti od proaktivnog pristupa korisnika javnih sredstava, koji u skladu sa zakonom, treba da primene standarde interne kontrole i da osiguraju neophodne kapacitete za funkcionisanje sistema interne kontrole. 
+	Finansijsko upravljanje i kontrola obuhvata sve aspekte upravljanja organizacijama u javnom sektoru, uključujući:
+(1)	strateško planiranje koja povezuje organizacione ciljeve sa sveukupnom vizijom Vlade,
+(2)	operativno planiranje koja povezuje operativne ciljeve sa zahtevima za resurse (budžet, osoblje i druga sredstva),
+(3)	praćenje i izveštavanje o ostvarenju ciljeva u odnosu na korišćene resurse,
+(4)	identifikacija i upravljanje rizicima za postizanje operativnih ciljeva,
+(5)	razvoj modela za evaluaciju kvaliteta finansijskog upravljanja i kontrole, koji uključuje rešavanje operativnih rizika, rizika od pronevere ili gubitka finansijskih i fizičkih sredstava i informacija organizacije,
+(6)	komunikacija tačnih, relevantnih i pravovremenih informacija u vezi sa finansijskim i operativnim učinkom unutar i van organizacije.
+	Interna revizija je aktivnost koja pruža nezavisno objektivno uveravanje i savetodavna aktivnost, sa svrhom da doprinese unapređenju poslovanja organizacije; pomaže organizaciji da ostvari svoje ciljeve, tako što sistematično i disciplinovano procenjuje i vrednuje upravljanje rizicima, kontrole i upravljanje organizacijom.
+Opšti cilj Strategije IFKJ je da se unapredi javna uprava u Republici Srbiji kroz jačanje odgovornosti u javnom sektoru.
+	Strategija IFKJ sadrži ciljeve i aktivnosti koje će doprineti daljem razvoju, unapređenju i realizaciji čitavog procesa IFKJ. Rokovi i odgovornosti za ostvarivanje ciljeva opisanih u nastavku sadržani su u Akcionom planu, koji čini sastavni deo Strategije IFKJ.
+
+	Strateški ciljevi, koji obuhvataju načela „COSO” okvira, utvrđeni u Strategiji IFKJ usmereni su na dalji razvoj interne finansijske kontrole:
+(1) unapređenje uloge Ministarstva finansija – CJH u oblasti koordinacije, praćenja, edukacije i informisanja rukovodilaca i zaposlenih uključenih u proces IFKJ,
+(2) Jačanje svesti o finansijskom upravljanju i kontroli kao integralnom delu procesa upravljanja sa naglašavanjem upravljačke odgovornosti, upravljanja rizicima i procene kvaliteta,
+(3) unapređenje interne revizije u smislu profesionalnosti i obuhvata poslova, efikasnijeg korišćenja raspoloživih resursa i razvoja sistema procene kvaliteta.
+
+4.1. CILJEVI CJH
+	
+	U narednom periodu, CJH će se fokusirati na bolju harmonizaciju sistema interne kontrole u čitavom javnom sektoru, uz dalju instucionalizaciju suštinskih (osnovnih) funkcija CJH, kroz pojedinačne ciljeve.
+	Na osnovu strateških ciljeva, dati su pojedinačni ciljevi CJH:
+
+4.1.1.	JAČANJE KOORDINACIJE FINANSIJSKOG UPRAVLJANJA I KONTROLE I AKTIVNOSTI INTERNE REVIZIJE OD STRANE CJH
+
+	Da bi se unapredio sistem interne kontrole, potrebno je da se ojača koordinaciona uloga CJH. To zahteva jačanje saradnje sa:
+a) Upravom za trezor i sektorima Ministarstva finansija
+	CJH će blisko sarađivati sa Upravom za trezor, Sektorom za budžet, Sektorom za ugovaranje i finansiranje programa iz sredstava Evropske unije, Sektorom za upravljanje sredstvima Evropske unije, Sektorom za finansijski sistem i Sektorom za kontrolu javnih sredstava, u cilju koordinacije optimalnog pristupa finansijskom upravljanju i kontroli i internoj reviziji.
+b) Korisnicima javnih sredstava
+	CJH će uspostaviti i koristiti mrežu ili mreže rukovodilaca, rukovodilaca/koordinatora nadležnih za finansijsko upravljanje i kontrolu i internih revizora korisnika javnih sredstava. Podrška za mrežu može se obezbediti širom upotrebom interneta i intraneta, kao i korišćenjem bilo kojih kanala komunikacije.
+v) Državnom revizorskom institucijom
+	Saradnja između interne i eksterne revizije prvenstveno je zadatak Državne revizorske institucije i jedinica za internu reviziju korisnika javnih sredstava. Budući da će interni revizori u narednom periodu obavljati složenije revizije, uključujući i revizije učinaka, potrebna je razmena iskustava između Državne revizorske institucije i internih revizora u domenu obavljanja takvih revizija. Koordinaciju ove saradnje potpomagaće CJH. CJH i Državna revizorska institucija će sarađivati kroz postojeće radne grupe.
+g) Službom za upravljanje kadrovima 
+	Potrebno je uspostaviti saradnju Ministarstva finansija CJH, sa Službom za upravljanje kadrovima kako bi se istražila mogućnost relokacije obuka i kako bi se baze podataka zajednički koristile u organizaciji izvršenih osnovnih i profesionalnih obuka državnih službenika.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	formiranje radne grupe unutar Ministarstva finansija koja će se baviti izazovima finansijskog upravljanja i kontrole i interne revizije, a koju će predvodti CJH uz učešće Uprave za trezor, Sektora za budžet, Sektora za ugovaranje i finansiranje programa iz sredstava Evropske unije, Sektora za upravljanje sredstvima Evropske unije, Sektora za finansijski sistem i Sektora za kontrolu javnih sredstava,
+•	organizovanje sastanaka sa rukovodiocima korisnika javnih sredstava, rukovodiocima/koordinatorima za finansijsko upravljanje i kontrolu i internim revizorima,
+•	koordinacija aktivnosti sa Upravom za trezor, Sektorom za budžet, Sektorom za ugovaranje i finansiranje i Sektorom za nacionalni fond i Sektorom za kontrolu javnih sredstava na razvoju metodologije finansijskog upravljanja i kontrole,
+•	organizacija zajedničkih seminara sa Sektorom za ugovaranje i finansiranje programa iz sredstava Evropske unije i Sektorom za upravljanje sredstvima Evropske unije u cilju razmene iskustava iz domena razvoja finansijskog upravljanja i kontrole i interne revizije u korišćenju pretpristupnih fondova Evropske unije,
+•	saradnja sa Državnom revizorskom institucijom kroz radnu grupu i koordinacija razmene iskustava,
+•	koordinacija aktivnosti sa Službom za upravljanje kadrovima Vlade u pripremi, kurikuluma neophodnog za potencijalnu realokaciju obuka i korišćenja baza podataka.
+
+4.1.2.	KONTINUIRANI RAZVOJ METODOLOŠKIH PRIRUČNIKA I SMERNICA ZA INTERNU REVIZIJU I FINANSIJSKO UPRAVLJANJE I KONTROLU
+	CJH mora biti u toku sa prihvaćenom međunarodnom praksom u oblasti interne revizije i finansijskog upravljanja i kontrole koje promovišu INTOSAI, IIA i službe Evropske komisije. CJH mora biti upućena u najnovije smernice i savete takvih organizacija o pitanjima interne kontrole i treba redovno da ažurira priručnike u skladu sa prihvaćenom praksom. CJH treba da organizuje sastanke sa korisnicima javnih sredstava kako bi se prihvaćena međunarodna praksa primenila u javnom sektoru u Republici Srbiji.
+
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	putem internet strane CJH, svim zainteresovanima obezbediće se informacije o ažuriranju i unapređenju priručnika i uputstava finansijskog upravljanja i kontrole i interne revizije, 
+•	CJH će organizovati diskusiju sa internim revizorima, rukovodiocima/koordinatorima za finansijsko upravljanje i kontrolu, Upravom za trezor i Državnom revizorskom institucijom, o predloženim izmenama prakse koja se primenjuje u Republici Srbiji, a rezultati ovih diskusija uzeće se u obzir pri ažuriranju priručnika.
+
+4.1.3.	KOORDINACIJA KONTINUIRANOG PROFESIONALNOG RAZVOJA
+	Dalji razvoj sistema interne finansijske kontrole zahtevaće, pored organizovanja osnovne obuke, i kontinuirani profesionalni razvoj lica odgovornih za finansijsko upravljanje i kontrolu i internu reviziju. Budući rad na adekvatnom praćenju i izveštavanju o stanju sistema finansijskog upravljanja i kontrole i interne revizije ograničava vreme posvećeno samoj obuci i sertifikaciji. Zbog toga, CJH će otvoriti mogućnosti organizacije profesionalne obuke i kontinuiranog profesionalnog razvoja u oblasti finansijskog upravljanja i kontrole i interne revizije u saradnji sa profesionalnom i akademskom zajednicom, kao i sa međunarodnim organizacijama. CJH će se, srednjoročno, fokusirati i na ulogu koordinatora u okviru obuke: to bi uključivalo kontinuirano unapređenje programa obuke i kontrolu kvaliteta implementacije obuke. Ministarstvo finansija – CJH će nastaviti saradnju sa profesionalnim udruženjima i učestvovati u jačanju njihovih aktivnosti. 
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	CJH će u saradnji sa profesionalnim i akademskim zajednicama, kao i sa međunarodnim organizacijama, analizirati mogućnosti za saradnju u organizaciji i unapređenju osnovnih obuka iz oblasti finansijskog upravljanja i kontrole i interne revizije,
+•	unapređenje stručnih znanja postojećih zaposlenih u CJH kroz seminare i kurseve u određenim oblastima finansijskog upravljanja i kontrole i interne revizije.
+
+4.1.4.	RAZVOJ I IMPLEMENTACIJA IT PODRŠKE IFKJ
+	CJH će razviti i konstantno unapređivati sistem informacionih tehnologija za podršku interne finansijske kontrole kroz restruktuiranje i redizajn postojeće internet stranice, koja će imati višestruku ulogu. Kao savremeni kanal komunikacije, otvoriće mogućnost širenja svesti, ne samo kod korisnika javnih sredstava već i kod šire javnosti. CJH će redovno ažurirati stranicu i konstantno obaveštavati o svojim aktivnostima, planovima, kao i najnovijim trendovima u oblasti interne finansijske kontrole. Nadgradnja internet stranice, samo za korisnike javnih sredstava biće sprovedena kroz dva kanala; ,,e-learning“ platformu koja će služiti pre svega kao podrška učenju i IFKJ softver koji će korisnicima javnih sredstava omogućiti elektronsko dostavljanje godišnjih izveštaja.
+Mere (aktivnosti predviđene Akcionim planom):
+•	unapređenje i redizajn postojeće internet stranice CJH, koja će biti povezana sa banerom na internet stranici Ministarstva finansija, radi efikasnije promocije IFKJ,
+•	implementacija ,,e-learning” platforme koja će služiti za bolju razmenu znanja na temu finansijskog upravljanja i kontrole i interne revizije, a koja će pored materijala za obuku sadržati i testove za proveru znanja, kao i modele sistema finansijskog upravljanja i kontrole i interne revizije radi lakše primene kod korisnika javnih sredstava,
+•	uspostavljanje softvera IFKJ, koji će korisnicima javnih sredstava omogućiti pristup i dostavljanje godišnjih izveštaja, CJH elektronskim putem,
+•	CJH će koristiti softver kao alat za prikupljanje podataka. Sačinjena baza podataka služiće za efikasniju analizu i bolji kvalitet konsolidovanih godišnjih izveštaja.
+
+4.1.5.	SARADNJA SA INTERNIM REVIZORIMA I RUKOVODIOCIMA ZADUŽENIM ZA FINANSIJSKO UPRAVLJANJE I KONTROLU
+	Pripadanje mreži internih revizora i razmena iskustava i ideja imaju za cilj razmenu i unapređenje stručnih znanja. Širina znanja i iskustva grupe uvek nadmašuje znanje i iskustvo bilo kog pojedinca. Druga prednost mreže je razvijanje svesti. CJH će koristiti formalne mreže internih revizora i rukovodilaca/koordinatora za finansijsko upravljanje i kontrolu u javnom sektoru radi razmene znanja i iskustva i diskutovanja o pitanjima od zajedničkog interesa u vezi sa internom kontrolom. Procesi komunikacije CJH treba da budu dopunjeni, i praćeni boljim umrežavanjem i razvijanjem veza između CJH i odgovornih rukovodilaca kod korisnika javnih sredstava (korišćenjem internet stranica, softvera CJH, časopisa, sastanaka, poseta). CJH treba da funkcioniše kao centrala preko koje se razmenjuju informacije između lica koja rade na implementaciji.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	razvoj razmene informacija putem internet stranice CJH, brošura, letaka i putem odabranih medijskih kanala.
+
+4.1.6.	REGIONALNA I MEĐUNARODNA SARADNJA
+	Međunarodne organizacije kao što su SIGMA, PEMPAL, Evropska komisija, poseduju znanje o prihvaćenim modelima za implementaciju interne finansijske kontrole u zemljama koje se pripremaju za pristupanje Evropskoj uniji. Zemlje koje su već prošle kroz pretpristupne procese u nekoliko poslednjih godina mogu prikazati svoje iskustvo i informacije o tome na koji način se najbolje mogu ispuniti zahtevi iz Poglavlja 32. CJH će sarađivati sa ovim organizacijama i koristiti njihova iskustva u izvršavanju obaveza u pogledu interne finansijske kontrole.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	učestvovanje predstavnika CJH na međunarodnim skupovima u organizaciji SIGMA, PEMPAL, Evropske komisije i drugih međunarodnih i regionalnih institucija.
+
+4.1.7.	PRAĆENJE I KONTROLA KVALITETA
+	CJH će nadgledati kvalitet uspostavljenih sistema interne kontrole kod korisnika javnih sredstava (finansijsko upravljanje i kontrola i interna revizija). U razvoju modela za evaluaciju kvaliteta internih kontrola CJH će sarađivati sa sektorima Ministarstva finansija i međunarodnim organizacijama, radi određivanja pokazatelja za procenu koliko se standardi interne kontrole primenjuju i kako se ocenjuje usklađenost, uključujući pokazatelje za procenu stepena implementacija i efikasnosti sistema internih kontrola kod korisnika javnih sredstava. Korisnici javnih sredstava će dobijati objašnjenja o prednostima i koristima od implementacije funkcionalnog sistema interne kontrole, ali i o svim izazovima koji se moraju savladati u tom procesu. CJH će takođe sarađivati sa rukovodiocima/koordinatorima za finansijsko upravljanje i kontrolu, internim revizorima i revizorskim odborima, kao savetodavnim telima za pitanja interne kontrole korisnika javnih sredstava, radi razmene informacija i iskustava o razvoju sistema interne kontrole.
+	Rukovodstvo CJH mora demonstrirati razvijene upravljačke veštine i veštine komunikacije, motivacione veštine, autoritet, tehničko poznavanje internih kontrola i interne revizije, kao i da obezbedi pristup najboljoj praksi i praćenje stručne literature. Za sve zaposlene u CJH neophodan je kontinuirani profesionalni razvoj, da bi se uloga CJH uspešno prilagodila i napredovala od uloge razvoja ka ulogama praćenja i ocenjivanja, podrške implementaciji interne finansijske kontrole, izveštavanja i razmene podataka.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	unaprediti sadržaj i kvalitet konsolidovanih godišnjih izveštaja CJH o internoj finansijskoj kontroli u javnom sektoru koji se dostavljaju Vladi,
+•	unaprediti sistem za praćenje oblasti u kojima su u objedinjenom godišnjem izveštaju identifikovane slabosti,
+•	utvrditi plan za periodično ocenjivanje interne kontrole kod korisnika javnih sredstava,
+•	organizacija radionica o razvoju interne kontrole kod korisnika javnih sredstava za lica nadležna za finansijsko upravljanje i kontrolu i internu reviziju,
+•	unapređenje veština zaposlenih u CJH kroz kontinuirani profesionalni razvoj. 
+
+
+
+
+
+4.1.8.	KOORDINACIJA SA DRUGIM MINISTARSTVIMA I DRUGIM KLJUČNIM ČINIOCIMA
+	Sistem interne finansijske kontrole je bitan i sastavni deo reforme javne uprave, obzirom da je sistem interne kontrole horizontalno pitanje i primenjuje se u svim sistemima javnih finansija. Strategija IFKJ će se usaglašavati sa Strategijom reforme javne uprave i predstavlja osnov za Program reforme upravljanja javnim finansijama. 
+	Strategijom reforme javne uprave u Republici Srbiji , u odeljku: „III.V.2. Unapređenje upravljanja i kontrole javnih prihoda i interna revizijaˮ predviđeno je da: „Centralna jedinica za harmonizaciju predstavlja centralnu organizaciju u Republici Srbiji odgovornu za pripremu i promovisanje metodologija za finansijsko upravljanje i kontrolu i internu reviziju, u skladu sa međunarodno prihvaćenim standardima i prihvaćenom praksom.
+	Sistem IFKJ je deo šireg konteksta reforme javne uprave, osnov i poseban deo reforme upravljanja javnim finansijama. Ministarstvo finansija i Ministarstvo državne uprave i lokalne samouprave nastaviće da rade zajedno na konkretnim aktivnostima, kako bi se osiguralo da interna finansijska kontrola, Reforma upravljanja javnim finansijama i Reforma državne uprave budu potpuno koordinirane i usaglašene. 
+	Strategijom razvoja javnih nabavki u Republici Srbiji za period 2014-2018. godine , u odeljku: „4.2. Unapređenje mera za suzbijanje neregularnosti i mere za borbu protiv korupcijeˮ predviđena je: obuka rukovodilaca o upravljačkoj odgovornosti i ulozi u sprovođenju internih akata i procedura, čiji je izvođač Sektor za internu kontrolu i internu reviziju (u okviru Ministarstva finansija). Centralna jedinica za harmonizaciju, u okviru svojih redovnih aktivnosti, u saradnji sa Upravom za javne nabavke, sprovešće obuku rukovodilaca o upravljačkoj odgovornosti i ulozi u sprovođenju internih akata i procedura.
+	Akcionim planom Vlade za sprovođenje Nacionalne strategije za borbu protiv korupcije u Republici Srbiji za period od 2013. do 2018. godine u odeljku: ,,3.2.3 Javna interna finansijska kontrola, eksterna revizija i zaštita finansijskih interesa Evropske unijeˮ predviđen je cilj: „3.2.3.1. Uspostavljen i razvijen sistem javne interne finansijske kontrole u javnom sektoru na svim nivoima vlasti.ˮ Centralna jedinica za harmonizaciju preduzeće potrebne aktivnosti za postizanje ovog cilja. 
+
+
+
+
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	formirati podgrupu u okviru Saveta za reformu javne uprave koju će činiti CJH sa predstavnicima Ministarstva za državnu upravu i lokalnu samoupravu, Ministarstva privrede, Ministarstva pravde i Uprave za javne nabavke koja će se baviti koordinacijom poslova iz oblasti finansijskog upravljanja i kontrole i interne revizije predviđenih ovom strategijom i o tome izveštavati Savet za reformu javne uprave, kroz mehanizam koji je već utvrđen u okviru akcionog plana za sprovođenje Strategije reforme javne uprave, a u delu koji se odnosi na finansijsko upravljanje i kontrolu i internu reviziju.
+
+4.1.9.	PROMOCIJA ZNAČAJA REFORME INTERNE FINANSIJSKE KONTROLE U JAVNOM SEKTORU
+	Rukovodioci korisnika javnih sredstava treba da shvate prednosti interne kontrole i pokažu spremnost da koriste internu kontrolu kao sredstvo koje im može pomoći u ostvarivanju ciljeva organizacije i za unapređenje radnih procesa i procedura. U svrhu podizanja svesti o značaju reforme IFKJ neophodno je promovisati Strategiju IFKJ organizovanjem konferencije na visokom nivou.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	organizacija događaja na visokom nivou radi promocije Strategije IFKJ,
+•	promocija značaja reforme IFKJ putem relevantnih medijskih kanala.
+
+4.2 CILJEVI FINANSIJSKOG UPRAVLJANJA I KONTROLE
+	
+	Na osnovu strateških ciljeva, dati su pojedinačni ciljevi za sistem finansijskog upravljanja i kontrole:
+
+4.2.1.	 PRUŽANJE PODRŠKE SVIM RUKOVODIOCIMA KORISNIKA JAVNIH SREDSTAVA RADI SUŠTINSKOG RAZUMEVANJA ZNAČAJA AKTIVNOSTI FINANSIJSKOG UPRAVLJANJA I KONTROLE KAO INTEGRALNOG DELA STRATEŠKIH I OPERATIVNIH PROCESA SA NAGLASKOM NA UPRAVLJAČKOJ ODGOVORNOSTI
+	Aktivnosti finansijskog upravljanja i kontrole čine integralni deo upravljačke odgovornosti i primenjuju se na nivou čitave organizacije. Finansijsko upravljanje i kontrola je odgovornost rukovodilaca najvišeg nivoa (ministar, sekretar ministarstva, pomoćnici ministra, generalni direktor, direktor), kao i rukovodilaca grupa, odseka, odeljenja i ostalih organizacionih jedinica unutar korisnika javnih sredstava. Zbog toga, u cilju uključivanja finansijskog upravljanja i kontrole u sve aktivnosti korisnika javnih sredstava, rukovodioci najvišeg nivoa i rukovodioci unutrašnjih organizacionih jedinica moraju postupati u skladu sa definicijom upravljačke odgovornosti. Ako odgovornost za sprovođenje finansijskog upravljanja i kontrole počiva samo na najvišem rukovodstvu, to neće biti dovoljno za njegovu suštinsku i potpunu primenu. Zbog toga je potrebno podići svest svih vodećih učesnika u aktivnostima javnog sektora, uključujući i sve rukovodioce unutrašnjih organizacionih jedinica, o ulozi i odgovornostima za sprovođenje finansijskog upravljanja i kontrole.
+	Finansijsko upravljanje i kontrola je sredstvo koje obezbeđuje da su poslovi u okviru odgovornosti rukovodilaca svih nivoa kod korisnika javnih sredstava sprovedeni na sistematičan, propisan i transparentan način, pružajući uveravanje rukovodiocu korisnika javnih sredstava da su poslovi i transakcije u njegovoj organizaciji sprovedeni u skladu sa principima dobrog upravljanja.
+	Koordinaciju implementacije i razvoja načela upravljačke odgovornosti rukovodilaca kod svih korisnika javnih sredstava pružiće CJH analizom nedostataka sistema interne kontrole kod korisnika javnih sredstava i izradom smernica i uputstava za njihovo otklanjanje. 
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	ustanoviti nivo razumevanja finansijskog upravljanja i kontrole kod korisnika javnih sredstava korišćenjem unapređenih CJH upitnika,
+•	razvoj smernica o upravljačkoj odgovornosti rukovodilaca u kojima se objašnjavaju uloge pojedinačnih učesnika u finansijskom upravljanju i kontroli (Rukovodioci korisnika javnih sredstava, rukovodioci grupa, odseka, odeljenja itd.),
+•	razvoj modela za praktičnu primenu finansijskog upravljanja i kontrole, koji će biti dostupni korisnicima javnih sredstava za preuzimanje putem e-learning platforme internet stranice CJH,
+•	organizacija radionica za više rukovodioce o ulozi finansijskog upravljanja i kontrole na osnovu rezultata istraživanja,
+•	organizacija seminara o finansijskom upravljanju i kontroli za rukovodilačke strukture na državnom i lokalnom nivou (državni sekretari, pomoćnici ministara, šefovi administracije/gradske uprave i direktori),
+•	sprovesti analizu primene standarda interne kontrole kod određenog broja korisnika javnih sredstava u odnosu na usvojena dokumenta politika finansijskog upravljanja i kontrole, 
+•	izmene Pravilnika FUK i Priručnika za FUK, kako bi pojam upravljačke odgovornosti bio usklađen sa principima dobrog upravljanja,
+•	ažuriranje i redizajn svih trening materijala za finansijsko upravljanje i kontrolu.
+
+4.2.2.	STRATEŠKO PLANIRANJE KOJE POVEZUJE ORGANIZACIONE CILJEVE SA SVEUKUPNOM VIZIJOM VLADE
+	Strateško planiranje koja povezuje organizacione ciljeve sa sveukupnom vizijom Vlade biće unapređeno izmenom postojećeg pravnog okvira koji će regulisati sistem planskih dokumenata. Ova promena će omogućiti usvajanje podzakonskih akata radi ostvarenja ovog cilja.
+Mere (aktivnosti predviđene Akcionim planom):
+•	usvajanje propisa kojim se uređuje metodologija upravljanja javnim politikama, analiza efekata javnih politika i propisa i sadržaj pojedinačnih dokumenata javnih politika,
+•	usvajanje propisa kojim se uređuje metodologija za izradu srednjoročnih (strateških planova).
+
+4.2.3.	OPERATIVNO PLANIRANJE KOJE POVEZUJE OPERATIVNE CILJEVE SA ZAHTEVIMA ZA RESURSE (BUDŽETSKI, KADROVSKI I DRUGA SREDSTVA)
+	Operativno planiranje koje povezuje operativne ciljeve sa zahtevima za resurse (budžetski, kadrovski i druga sredstva) će se postići usvajanjem i implementacijom Akcionog plana za optimizaciju javne uprave, na osnovu preporuka horizontalne funkcionalne analize sprovedene od strane Svetske banke. Izmenom postojećih propisa o načelima za unutrašnje uređenje i sistematizaciju radnih mesta u ministarstvima, posebnim organizacijama i službama Vlade obezbedi će se formiranje, odnosno određivanje unutrašnje organizacione jedinice koja bi se bavila pitanjima strateškog planiranja i upravljanja, sa precizno definisanim opisima poslova zaposlenih u ovoj jedinici.
+	Jedan od zadataka koji će biti u nadležnosti ovih jedinica je vršenje funkcija profesionalne podrške i koordinacije u pripremi i implementaciji strateških i operativnih planova u skladu sa definisanim ciljevima organizacije i opravdanim zahtevima za resurse (budžet, osoblje i drugi resursi).
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	izmena postojećih propisa koji uređuju načela za unutrašnju organizaciju državne uprave će obezbediti formiranje, odnosno određivanje unutrašnje organizacione jedinice koja će biti zadužena za sprovođenje funkcije pružanja profesionalne podrške i koordinaciju u pripremi i realizaciji strateškog i operativnih planova u skladu sa definisanim ciljevima organizacije i opravdanim zahtevima za resursima.
+
+4.2.4.	PRAĆENJE I IZVEŠTAVANJE O OSTVARENJU CILJEVA U ODNOSU NA KORIŠĆENE RESURSE
+	Praćenje i izveštavanje o ostvarenju ciljeva u odnosu na korišćene resurse će se postići usvajanjem i sprovođenjem Akcionog plana optimizacije javne uprave, na osnovu preporuka iz horizontalne funkcionalne analize koju je sprovela Svetska banka. Izmenom postojećih propisa o načelima za unutrašnje uređenje i sistematizaciju radnih mesta u ministarstvima, posebnim organizacijama i službama Vlade, obezbedi će se formiranje, odnosno određivanje unutrašnje organizacione jedinice koja bi se bavila pitanjima strateškog planiranja i upravljanja, sa precizno definisanim opisima poslova zaposlenih u ovoj jedinici.
+	Jedan od zadataka koji će biti u nadležnosti tih jedinica je praćenje i izveštavanje o stepenu ostvarenja definisanih ciljeva u odnosu na resurse koji se koriste.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	izmena postojećih propisa koji uređuju načela za unutrašnju organizaciju državne uprave će obezbediti formiranje, odnosno određivanje unutrašnje organizacione jedinice koja će biti zadužena za praćenje i izveštavanje o stepenu ostvarivanja definisanih ciljeva u odnosu na resurse koji se koriste.
+
+4.2.5.	RAZVOJ PROCESA UPRAVLJANJA RIZIKOM KOD KORISNIKA JAVNIH SREDSTAVA
+	Potrebno je nastaviti sa sistematskim razvojem procesa upravljanja rizikom kod korisnika javnih sredstava kroz kontinuirano utvrđivanje rizika i procenu verovatnoće njihovog javljanja i mogućih efekata, dokumentovanje rizika u registru rizika, određivanje lica za praćenje rizika i unapređenjem sistema izveštavanja o rizicima.
+	U cilju pune implementacije sistema interne kontrole, potrebno je unaprediti postupak strateškog planiranja (jasnije definisanje i praćenje strateških ciljeva) sa kojim je proces upravljanja rizikom povezan.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	CJH treba da ažurira postojeće smernice za implementaciju procesa upravljanja rizikom kod korisnika javnih sredstava,
+•	organizacija CJH seminara i radionica o temi upravljanja rizikom za sve korisnike javnih sredstava,
+•	kontinuirano dokumentovanje rizika u registrima rizika i određivanje lica nadležnog za praćenje rizika kod korisnika javnih sredstava,
+•	CJH treba da putem ,,e-learning” platforme omogući preuzimanje modela upravljanja rizikom, radi lakše primene od strane korisnika javnih sredstava.
+
+4.2.6.	RAZVOJ MODELA ZA EVALUACIJU KVALITETA FINANSIJSKOG UPRAVLJANJA I KONTROLE
+	Dobro postavljen sistem finansijskog upravljanja i kontrole obezbeđuje da će javna sredstva biti upotrebljena na zakonit način, u skladu sa principima ekonomičnosti, efikasnosti i efektivnosti. Zakon o budžetskom sistemu definiše načela i pravila u skladu sa kojima korisnici javnih sredstava moraju upravljati resursima koji su im dodeljeni. Primena odredaba Zakona o budžetskom sistemu u praksi zahteva adekvatan sistem finansijskog upravljanja i kontrole. Da bi se osigurala adekvatnost sistema finansijskog upravljanja i kontrole neophodno je kontinuirano vršiti nadgledanje (monitoring). Zbog toga je suštinski važno da se razvije model za ocenjivanje kvaliteta finansijskog upravljanja i kontrole, koji će pružiti povratne informacije o tome da li sistem finansijskog upravljanja i kontrole zaista osigurava efikasno korišćenje javnih sredstava i ostvarivanje ciljeva koje Vlada postavlja. Model za ocenjivanje kvaliteta koristi će se i za proveru da li sistem finansijskog upravljanja i kontrole obezbeđuje da se:
+•	namenjena javna sredstva koriste u skladu sa odobrenim finansijskim planom, ne prihvataju obaveze koje premašuju odobrena sredstva i sredstva ne preusmeravaju bez odgovarajućeg odobrenja,
+•	nepravilnosti koje se eventualno javljaju adekvatno beleže i preduzimaju potrebne radnje da se takve nepravilnosti otklone.
+	Da bi se podržao takav model za ocenjivanje kvaliteta, potrebne su određene izmene u sistemu godišnjeg izveštavanja o internim kontrolama. Potrebno je napraviti planove za postepeno uvođenje godišnje izjave o internim kontrolama različitih kategorija korisnika javnih sredstava koju će potpisivati rukovodilac, a kojom će se potvrđivati da je sistem internih kontrola proveren i da ispunjava standarde koje postavlja ministar zadužen za poslove finansija. Korisnici javnih sredstava će ovu izjavu dostavljati ministru finansija preko CJH.
+	Uvođenje upravljanja nepravilnostima ima poseban značaj za dalji razvoj finansijskog upravljanja i kontrole. Nepravilnost predstavlja svako kršenje neke odredbe propisanih pravila i ugovora, koje je posledica postupka ili propusta lica zaposlenih kod korisnika javnih sredstava, ugovarača, krajnjih korisnika i krajnjih primalaca, a koje kao za posledicu ima, ili bi moglo imati, neopravdane troškove. Državni službenik, zaposleni ili treće lice prijavljuju odstupanja, nedoslednosti ili kršenja propisa koje predstavlja nepravilnost ili izaziva osnovanu sumnju da je došlo do prevare, bez obzira na veličinu i značaj nepravilnosti ili prevare i bez obzira jesu li iste počinjene namerno ili iz nehata.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	uvođenje godišnje izjave o internim kontrolama od strane rukovodioca korisnika javnih sredstava,
+•	plan uvođenja izjave o internoj kontroli koju će potpisivati rukovodioci korisnika javnih sredstava i dostavljati ministru finansija preko CJH,
+•	uvođenje funkcije upravljanja nepravilnostima u okvir finansijskog upravljanja i kontrole.
+
+4.2.7.	KOMUNIKACIJA TAČNIH, RELEVANTNIH I PRAVOVREMENIH INFORMACIJA U VEZI SA FINANSIJSKIM I OPERATIVNIM UČINKOM UNUTAR I VAN ORGANIZACIJE 
+	Komunikacija tačnih, relevantnih i pravovremenih informacija u vezi sa finansijskim i operativnim učinkom unutar i van organizacije će se postići usvajanjem i sprovođenjem Akcionog plana optimizacije javne uprave, na osnovu preporuka iz horizontalne funkcionalne analize koju je sprovela Svetska banka. Izmenom postojećih propisa o načelima za unutrašnje uređenje i sistematizaciju radnih mesta u ministarstvima, posebnim organizacijama i službama Vlade obezbediće se formiranje, odnosno određivanje unutrašnje organizacione jedinice koja bi se bavila pitanjima strateškog planiranja i upravljanja, sa precizno definisanim opisima poslova zaposlenih u ovoj jedinici.
+
+	Jedan od zadataka koji će biti u nadležnosti ovih jedinica je funkcija interne i eksterne komunikacije kroz pripremu tačnih, relevantnih i aktuelnih informacija koje se odnose na finansijske i operativne efekte za objavljivanje unutar i van organizacije.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	izmena postojećeg propisa kojim se uređuju načela za unutrašnju organizaciju državne uprave će obezbediti formiranje, odnosno određivanje unutrašnje organizacione jedinice koja će biti zadužena za internu i eksternu komunikaciju kroz pripremu tačnih, relevantnih i blagovremenih informacija u vezi sa finansijskim i operativnim učinkom za objavljivanje unutar i izvan organizacije.
+
+4.3. CILJEVI INTERNE REVIZIJE
+	
+	Na osnovu strateških ciljeva, dati su pojedinačni ciljevi sistem interne revizije:
+
+4.3.1.	RAZVIJANJE PROFESIONALNIH VEŠTINA INTERNIH REVIZORA – BROJNOST I KOMPETENTNOST
+	Imajući u vidu zahteve koji se postavljaju pred internu reviziju, ulogu koju ima u razvoju finansijskog upravljanja i kontrole kod korisnika javnih sredstava i funkciju u sistemu korišćenja pretpristupnih fondova, veoma je važno da se osiguraju kapaciteti za internu reviziju. Potrebno je obezbediti dovoljan broj ovlašćenih internih revizora u javnom sektoru, sa odgovarajućim kompetencijama. Neophodna je izgradnja sistemskog pristupa u saradnji između jedinica interne revizije i institucija IPA korisnika i Kancelarije za reviziju sistema upravljanja sredstvima Evropske unije, kako bi se podigla njihova svest o pitanjima upravljanja sredstvima Evropske unije i pojačali tehničku kapaciteti za vršenje revizija uspostavljenih struktura za upravljanje sredstvima Evropske unije u okviru njihovih institucija.
+	Definisanje oblasti, oblika i pravila stalnog profesionalnog usavršavanja internih revizora urediće se propisom u skladu sa Međunarodnim standardima profesionalne prakse interne revizije Instituta internih revizora. CJH će biti u obavezi da prati proces stalnog profesionalnog usavršavanja internih revizora.
+	Da bi se unapredila kompetentnost ovlašćenih internih revizora u javnom sektoru potrebno je organizovati dodatnu obuku kroz odgovarajuće module obuka, radionica i seminara.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	angažovanje novih internih revizora iz postojećeg resursa korisnika javnih sredstava, do potrebnog broja,
+•	organizacija sastanaka radi razmene iskustava internih revizora iz institucija korisnika IPA, Kancelarije za reviziju sistema upravljanja sredstvima Evropske unije i CJH,
+•	propisom definisati stalno profesionalno usavršavanje internih revizora,
+•	izrada materijala za obuku potrebnih za implementaciju ažuriranog priručnika za internu reviziju,
+•	ažuriranje i redizajn trening materijala za internu reviziju.
+
+4.3.2.	PROMOVISANJE STATUSA INTERNE REVIZIJE I SARADNJE SA UPRAVLJAČKIM STRUKTURAMA
+	Zakon o budžetskom sistemu i Pravilnik IR pruža osnovne garancije nezavisnosti i samostalnosti internih revizora, ali se interna revizija ne prihvata, u dovoljnoj meri, kao sredstvo neophodno za uspešno upravljanje, već kao dodatno opterećenje za organizaciju. 
+	Potrebno je podsticati i razvijati saradnju između internih revizora i upravljačkih struktura. Rukovodioci treba da shvate prednosti interne revizije i pokažu spremnost da koriste internu reviziju kao sredstvo koje im može pomoći da unaprede radne procese i procedure. Saradnja između interne revizije i upravljačkih struktura treba da doprinese poboljšanju strateških i godišnjih planova interne revizije i da istakne prioritete rukovodstva. Pored navedenog, materijalni položaj internih revizora nije adekvatan, pa je potrebno da se unapredi i uskladi prema složenosti i obimu posla koji obavljaju.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	održavanje prezentacija od strane CJH višem rukovodstvu kod korisnika javnih sredstava na temu uloge upravljačkih struktura i funkcija interne revizije, u saradnji sa rukovodiocima za internu reviziju,
+•	organizacija događaja na visokom nivou koji je ujedno i visoko vidljiv kako bi se istakao značaj sprovođenja interne finansijske kontrole u javnom sektoru.
+
+4.3.3.	OPTIMIZACIJA KORIŠĆENJA REVIZORSKIH RESURSA 
+	U prethodnom periodu, aktivnosti interne revizije bile su usmerene na revizije usklađenosti sa propisima. Revizije usklađenosti sa propisima su važne i sa njima će se nastaviti, ali je potrebno sprovoditi složenije revizije, kao što su revizije usmerene na obezbeđivanje upravljačke podrške za ekonomično, efektivno i efikasno korišćenje javnih sredstava. Revizije učinka (performanse) i revizije prioritetnih projekata treba implementirati u odabranim ministarstvima, čime se ne isključuje mogućnost implementacije takvih revizija i kod drugih korisnika javnih sredstava, jer su pojedini radni procesi istovetni za veći broj korisnika javnih sredstava.
+	Da bi se optimizovalo korišćenje ograničenih revizorskih resursa, razmotriće se mogućnost uvođenja ,,horizontalnih” revizija u kojima bi bilo angažovano više internih revizora različitih korisnika javnih sredstava, koji bi radili na reviziji određenog procesa koji je istovetan za veći broj korisnika javnih sredstava - zajednički svim korisnicima (npr. korišćenje donacija). 
+Mere (aktivnosti predviđene Akcionim planom):
+•	organizacija radionica, pilot revizije i razmena iskustava nakon obavljanja revizija, o revizijama učinka i revizijama projekata,
+•	razvoj sistemskog pristupa za horizontalne revizije na osnovu analiza kompleksnosti obima revizije i dostupnih resursa. 
+
+4.3.4.	RAZVOJ MODELA ZA OCENJIVANJE KVALITETA RADA INTERNIH REVIZORA
+	Profesionalni standardi interne revizije podrazumevaju sprovođenje provere kvaliteta svih funkcija interne revizije najmanje jednom u tri do pet godina. Svrha ovog postupka jeste: 
+•	da se ocene efikasnost i efektivnost aktivnosti interne revizije,
+•	da se identifikuju mogućnosti i daju saveti za poboljšanje aktivnosti interne revizije.
+	Rad na proveri kvaliteta interne revizije može biti interni (kada to obavlja sama jedinica za internu reviziju) ili eksterni (kad to obavlja CJH ili drugi kvalifikovani procenjivač). Osnovni cilj kontrole kvaliteta je da se oceni kvalitet uspostavljenih funkcija interne revizije kod korisnika javnih sredstava sa ciljem da se unaprede postojeće prakse u skladu sa Međunarodnim standardima profesionalne prakse interne revizije. Eksterna ocena kvaliteta se usredsređuje na vrednovanje upitnika za samoocenjivanje internih revizora kroz prethodnu proveru dokumenata, kao i kroz direktne posete da bi se utvrdila ne samo usklađenost sa zakonima, definicijama interne revizije, standardima koji se primenjuju i Etičkim kodeksom, već i da se oceni efikasnost i efektivnost internih revizora i da bi se identifikovale potencijalne mogućnosti za unapređenje. 
+	U narednom periodu potrebno je razviti model za ocenu kvaliteta rada interne revizije kod korisnika javnih sredstava, po metodu kolegijalnog pregleda (perr review), koji koordinira CJH donošenjem propisa o eksternoj oceni kvaliteta interne revizije. Rukovodioci jedinica za internu reviziju razvijaju sopstvene programe za osiguravanje kvaliteta rada interne revizije, na osnovu opšteg modela koji priprema CJH. 
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	urediti propisom eksternu ocenu kvaliteta rada interne revizije kod korisnika javnih sredstava, 
+•	razvoj modela za internu procenu kvaliteta interne revizije koji će koristiti jedinice za internu reviziju, a koji će pripremiti CJH i smernice za osiguravanje kvaliteta interne revizije za rukovodioce jedinica za internu reviziju.
+
+
+
+4.3.5.	USPOSTAVLJANJE MINIMALNIH KRITERIJUMA ZA ORGANIZOVANJE ZAJEDNIČKE INTERNE REVIZIJE DVA ILI VIŠE KORISNIKA JAVNIH SREDSTAVA SA ODREĐENE TERITORIJE, ISTOVRSNIH ILI SLIČNIH POSLOVA, MANJE VELIČINE
+	Zakon o budžetskom sistemu propisuje da su korisnici javnih sredstava dužni da ustanove funkciju interne revizije. Mada se ova zakonska obaveza dalje razrađuje u Pravilniku IR, nisu definisani minimalni kriterijumi za male korisnike javnih sredstava za organizovanje zajedničke interne revizije dva ili više korisnika javnih sredstava, sa određene teritorije, istovrsnih ili sličnih poslova, manje veličine. 	Potrebno je ustanoviti smernice za organizovanje zajedničke interne revizije dva ili više korisnika javnih sredstava.
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	izrada smernica za uspostavljanje funkcija interne revizije kod malih korisnika javnih sredstava za zajedničke jedinice za internu reviziju.
+
+	5.	PRAĆENJE (MONITORING) IMPLEMENTACIJE STRATEGIJE
+	
+	Praćenje implementacije Strategije IFKJ i ostvarivanje ciljeva, mera i aktivnosti sadržanih u Akcionom planu, koji čini sastavni deo Strategije IFKJ, obavljaće Centralna jedinica za harmonizaciju u Ministarstvu finansija.
+	CJH će formirati radnu grupu za internu finansijsku kontrolu koja će pratiti implementaciju Akcionog plana i godišnje izveštavati Vladu o sprovedenim aktivnostima, ostvarenim rezultatima i mogućim teškoćama u realizaciji ciljeva i mera i dostavljati predloge za eliminisanje takvih teškoća. Radna grupa će se sastajati najmanje dva puta godišnje i predlagati dopune Akcionog plana prema potrebi. CJH će imati ulogu sekretarijata radne grupe i pripremaće izveštaje i dokumenta za diskusiju, koja će se koristiti na sastancima radne grupe. 
+
+Mere (aktivnosti predviđene Akcionim planom):
+•	formiranje radne grupe za internu finansijsku kontrolu u javnom sektoru od predstavnika korisnika javnih sredstava,
+•	praćenje implementacije Strategije IFKJ i ostvarivanje ciljeva, mera i aktivnosti sadržanih u Akcionom planu, putem sastanaka Radne grupe za internu finansijsku kontrolu,
+•	godišnje izveštavanje Vlade o sprovedenim aktivnostima, ostvarenim rezultatima i mogućim teškoćama u realizaciji ciljeva i mera.
+
+	Akcionim planom, koji čini sastavni deo Strategije IFKJ, predviđena je realizacija planiranih aktivnosti za period od 2017. do 2018. godine. Ažuriranje Akcionog plana za realizaciju preostalih aktivnosti izvršiće se u poslednjem kvartalu 2018. godine. Mere i aktivnosti koje nisu obuhvaćene Akcionim planom biće obuhvaćene ažuriranim akcionim planom za period 2019-2020. godine.
+	6.	AKCIONI PLAN ZA SPROVOĐENJE STRATEGIJE RAZVOJA INTERNE FINANSIJSKE KONTROLE U JAVNOM SEKTORU U REPUBLICI SRBIJI ZA PERIOD 2017-2020. GODINE
+
+	Akcioni plan za period 2017-2018. godine je odštampan uz ovu strategiju i čini njen sastavni deo.
+
+7.	ZAVRŠNI DEO
+
+	Ovu strategiju objaviti u „Službenom glasniku Republike Srbije”.
+
+
+05 Broj:
+U Beogradu,   maja 2017. godine
+                                                          V L A D A 
+                                                                                                 PREDSEDNIK
+                                                                                              Aleksandar Vučić
+
+ 
+
+
+AKCIONI PLAN ZA PERIOD 2017-2018. GODINE
+
+
+UNAPREĐENJE ULOGE MINISTARSTVA FINANSIJA – CJH U OBLASTI KOORDINACIJE, PRAĆENJA, EDUKACIJE I INFORMISANJA RUKOVODILACA I ZAPOSLENIH UKLJUČENIH U PROCES IFKJ
+
+	Ciljevi	Br.	Mera / Aktivnost	Rok	Pokazatelj
+(PV – početna vrednost; CV – ciljna vrednost)	Nosilac aktivnosti	Partnerske institucije
+1.	JAČANJE KOORDINACIJE FINANSIJSKOG UPRAVLJANJA I KONTROLE I AKTIVNOSTI INTERNE REVIZIJE OD STRANE CJH 	1.1	Formiranje radne grupe unutar Ministarstva finansija koja će se baviti izazovima finansijskog upravljanja i kontrole i interne revizije, a koju će predvoditi CJH uz učešće Uprave za trezor, Sektora za budžet, Sektora za ugovaranje i finansiranje programa iz sredstava EU, Sektora za upravljanje sredstvima EU, Sektora za finansijski sistem i Sektora za kontrolu javnih sredstava	2. kvartal 2017. godine	Uspostavljena radna grupa
+PV: 0
+CV: 1	Ministarstvo finansija/ CJH	Ostale navedene organizacione jedinice u okviru Ministarstva finansija
+		1.2	Koordinacija aktivnosti sa Upravom za trezor, Sektorom za budžet, Sektorom za ugovaranje i finansiranje programa iz sredstava EU, Sektorom za nacionalni fond i Budžetskom inspekcijom na razvoju metodologije finansijskog upravljanja i kontrole	Kontinuirano, počevši od 3. kvartala 2017. godine	Izveštaji / beleške sa sastanaka	Ministarstvo finansija/ CJH	Ostale navedene organizacione jedinice u okviru Ministarstva finansija
+		1.3	Organizacija zajedničkih seminara sa Sektorom za ugovaranje i finansiranje programa iz sredstava EU i Sektorom za upravljanje sredstvima EU u cilju razmene iskustava iz domena razvoja finansijskog upravljanja i kontrole i interne revizije u korišćenju pretpristupnih fondova EU	Najmanje jednom godišnje	Održani seminari
+PV: 0
+CV: 2	CJH, Sektor za ugovaranje i finansiranje programa iz sredstava Eu, Sektor za upravljanje sredstvima EU	
+		1.4	Saradnja sa Državnom revizorskom institucijom kroz radnu grupu i koordinaciju razmene iskustava	Kontinuirano	Izveštaji / beleške sa sastanaka	Ministarstvo finansija/ CJH	Državna revizorska institucija
+2.	KONTINUIRANI
+RAZVOJ METODOLOŠKIH PRIRUČNIKA I SMERNICA ZA INTERNU REVIZIJU I FINANSIJSKO UPRAVLJANJE I KONTROLU 	2.1	Ažuriranje i unapređenje postojećih metodoloških priručnika i uputstava u skladu sa najboljom međunarodnom praksom i njihovo objavljivanje na internet stranici CJH	Kontinuirano, počevši od 2. kvartala 2017. godine	Objavljena dokumenta na internet stranici CJH	Ministarstvo finansija/ CJH	
+		2.2	Unapređivanje koordinacije između internih revizora, rukovodilaca/koordinatora za finansijsko upravljanje i kontrolu, Uprave za trezor i Državne revizorske institucije, u cilju razvoja i usklađivanja metodoloških priručnika i uputstava sa nacionalnom praksom	Najmanje jednom godišnje	Izveštaji sa sastanaka	Ministarstvo finansija/ CJH	Uprava za trezor, Državna revizorska institucija i KJS
+3.	KOORDINACIJA KONTINUIRANOG PROFESIONALNOG RAZVOJA 	3.1	Sprovođenje analize usklađenosti u cilju unapređenja postojećeg sistema sertifikacije i profesionalnog razvoja internih revizora, uključivanjem profesionalnih organizacija i akademske zajednice u proces pripreme i sprovođenja obuka 
+	1. kvartal 2018. godine	Analiza usklađenosti i plan implementa-cije
+PV: 0
+CV: 1	Ministarstvo finansija/ CJH	Profesio-nalne organizacije, akademska zajednica, međunarodne organizacije
+		3.2	Unapređenje stručnih znanja zaposlenih u CJH kroz praćenje međunarodne prakse u oblasti finansijskog upravljanja i kontrole i interne revizije	Kontinuirano	Najmanje dva seminara godišnje	CJH	
+4.	RAZVOJ I IMPLEMENTACIJA IT PODRŠKE IFKJ 	4.1	Unapređenje i redizajn postojeće internet stranice CJH radi efikasnije promocije i veće dostupnosti korisnicima	2. kvartal 2017. godine	Redizajnirana internet stranica CJH	CJH	SDC/UNDP
+		4.2	Implementacija ,,e-learning” platforme koja će unaprediti razmenu znanja iz oblasti finansijskog upravljanja i kontrole i interne revizije	4. kvartal 2017. godine	Postavljeni materijali za obuku 
+PV: 0
+CV: 1	CJH	SDC/UNDP
+		4.3	Unapređenje postojećeg softvera za internu finansijsku kontrolu u javnom sektoru, koji će korisnicima omogućiti pristup i dostavljanje godišnjih izveštaja CJH elektronskim putem, što će poboljšati kvalitet podataka na osnovu kojih se sačinjava konsolidovani godišnji izveštaj o internoj finansijskoj kontroli u javnom sektoru	1.  kvartal 2018. godine	Izveštaj o sprovedenoj testnoj fazi (dostavljanje e-izveštaja od strane KJS na centralnom nivou)
+PV: 0
+CV: 1	CJH	SDC/UNDP
+5.	PRAĆENJE I KONTROLA KVALITETA 	5.1	Unapređenje sadržaja i kvaliteta konsolidovanog godišnjeg izveštaja o internoj finansijskoj kontroli u javnom sektoru, koji se dostavlja Vladi (veza sa aktivnošću 4.3)	2. kvartal 2018. godine	Konsolido-vani godišnji izveštaj za 2017. godinu 	CJH	TWINNING partner
+		5.2	Unapređenje sistema za praćenje oblasti u kojima su u konsolidovanom godišnjem izveštaju o stanju interne finansijske kontrole u javnom sektoru identifikovane slabosti	2. kvartal 2019. godine	Konsolidovani godišnji izveštaj za 2018. godinu	CJH	
+6.	KOORDINACIJA SA DRUGIM MINISTARSTVIMA I DRUGIM KLJUČNIM INSTITUCIJAMA 	6.1	•	Formirati podgrupu u okviru Saveta za reformu javne uprave koju će činiti CJH sa predstavnicima Ministarstva za državanu upravu i lokalnu samoupravu, Ministarstva privrede, Ministarstva pravde i Uprave za javne nabavke koja će se baviti koordinacijom poslova iz oblasti finansijskog upravljanja i kontrole i interne revizije predviđenih ovom strategijom i o tome izveštavati Savet za reformu javne uprave, kroz mehanizam koji je već utvrđen u okviru akcionog plana za sprovođenje Strategije reforme javne uprave, a u delu koji se odnosi na finansijsko upravljanje i kontrolu i internu reviziju.	4. kvartal 2017. godine	Osnovana podgrupa u okviru Saveta za reformu javne uprave
+PV: 0
+CV: 1	CJH	Ministarstvo državne uprave i lokalne samouprave, Ministarstvo privrede, Ministarstvo pravde i Uprava za javne nabavke
+7. 	PROMOCIJA ZNAČAJA REFORME INTERNE FINANSIJSKE KONTROLE	7.1 	Organizovanje događaja na visokom nivou radi promovisanja nove Strategije razvoja  interne finansijske kontrole u javnom sektoru 	120 dana nakon usvajanja Strategije od strane Vlade	Lista prisutnih, izveštaj o medijskoj pokrivenosti	Ministarstvo finansija/ CJH	EU, Rukovodioci KJS
+		7.2.	Promocija značaja reforme interne finansijske kontrole u javnom sektoru putem relevantnih medijskih kanala	Kontinuirano	Izveštaji medija i promotivni materijal	CJH	
+
+JAČANJE SVESTI O FINANSIJSKOM UPRAVLJANJU I KONTROLI KAO INTEGRALNOM DELU PROCESA UPRAVLJANJA SA NAGLAŠAVANJEM UPRAVLJAČKE ODGOVORNOSTI, UPRAVLJANJA RIZICIMA I PROCENE KVALITETA
+
+	Ciljevi	Br.	Mera / Aktivnost	Rok	Pokazatelj	Nosilac aktivnosti	Partnerske institucije
+8.	PRUŽANJE PODRŠKE SVIM RUKOVODIOCIMA KORISNIKA JAVNIH SREDSTAVA RADI SUŠTINSKOG RAZUMEVANJA ZNAČAJA AKTIVNOSTI FINANSIJSKOG UPRAVLJANJA I KONTROLE KAO INTEGRALNOG DELA STRATEŠKIH I OPERATIVNIH PROCESA SA NAGLASKOM NA UPRAVLJAČKOJ ODGOVORNOSTI 	8.1	Unapređenje sadržaja i forme upitnika za samoocenjivanje CJH, kako bi se poboljšao kvalitet podataka koje dostavljaju KJS	1. kvartal 2018. godine	Unapređeni CJH upitnici 	CJH	
+		8.2	Razvoj smernica o upravljačkoj odgovornosti rukovodilaca u kojima se objašnjavaju uloge pojedinih učesnika u finansijskom upravljanju i kontroli (rukovodioci KJS, rukovodioci grupa, odseka, odeljenja itd.)	4. kvartal 2017. godine	Smernice o upravljačkoj odgovornosti u javnom sektoru	CJH	
+		8.3	Razvoj modela za praktičnu primenu finansijskog upravljanja i kontrole, koji će biti dosupni KJS za preuzimanje putem ,,e-learning”  platforme na internet stranici CJH	4. kvartal 2018. godine	Modeli za praktičnu primenu finansijskog upravljanja i kontrole
+PV: 0
+CV: 1	CJH	TWINNING partner
+		8.4	Organizacija radionica za više rukovodioce o ulozi finansijskog upravljanja i kontrole 	Kontinuirano od 3. kvartala 2017. godine	Najmanje dve radionice godišnje
+PV: 0
+CV: 4
+	CJH	KJS, TWINNING partner
+		8.5	Sprovođenje analize o primeni standarda interne kontrole kod određenog broja KJS u odnosu na usvojena dokumenta politika finansijskog upravljanja i kontrole 	4. kvartal 2018. godine	Izvršena analiza
+PV: ne
+CV: da	CJH	TWINNING partner
+		8.6	Izmene Pravilnika i Priručnika za finansijsko upravljanje i kontrolu, kako bi pojam upravljačke odgovornosti bio usklađen sa principima dobrog upravljanja i uvođenje funkcije upravljanja nepravilnostima 	2. kvartal 2018. godine	Izmenjeni Pravilnik i Priručnik 	CJH	
+		8.7	Ažuriranje i redizajn svih trening materijala za finansijsko upravljanje i kontrolu, u skladu sa izmenjenom regulativom 	3. kvartal 2018. godine	Ažuriran i redizajniran trening materijal 	CJH	
+9.	STRATEŠKO PLANIRANJE KOJE POVEZUJE CILJEVE ORGANIZACIJE SA SVEUKUPNOM VIZIJOM VLADE 
+	9.1	Usvajanje propisa kojim se uređuje metodologija upravljanja javnim politikama, analiza efekata javnih politika i propisa i sadržaj pojedinačnih dokumenata javnih politika	4. kvartal 2017. godine	Usvojen propis
+PV: ne
+CV: da	Ministarstvo državne uprave i lokalne samouprave	Republički sekretarijat za javne politike
+		9.2	Usvajanje propisa kojim se uređuje metodologija za izradu srednjoročnih (strateških) planova  	4. kvartal 2017. godine	Usvojen propis
+PV: ne
+CV: da	Ministarstvo državne uprave i lokalne samouprave	Republički sekretarijat za javne politike
+10.	OPERATIVNO PLANIRANJE KOJE POVEZUJE OPERATIVNE CILJEVE SA ZAHTEVIMA ZA RESURSE (BUDŽET, ZAPOSLENI I DRUGA SREDSTVA)  	10.1	Izmena postojećih propisa koji uređuju načela za unutrašnju organizaciju državne uprave će obezbediti formiranje, odnosno određivanje unutrašnje organizacione jedinice koja će biti zadužena za sprovođenje funkcije pružanja profesionalne podrške i koordinaciju u pripremi i realizaciji strateškog i operativnih planova u skladu sa definisanim ciljevima organizacije i opravdanim zahtevima za resursima	4. kvartal 2017. godine	Usvojen propis
+PV: ne
+CV: da	Ministarstvo državne uprave i lokalne samouprave	
+11.	
+PRAĆENJE I IZVEŠTAVANJE O OSTVARENJU CILJEVA U ODNOSU NA KORIŠĆENE RESURSE 
+	11.1	Izmena postojećih propisa koji uređuju načela za unutrašnju organizaciju državne uprave će obezbediti formiranje, odnosno određivanje unutrašnje organizacione jedinice koja će biti zadužena za praćenje i izveštavanje o stepenu ostvarivanja definisanih ciljeva u odnosu na resurse koji se koriste 	4. kvartal 2017. godine	Usvojen propis
+PV: ne
+CV: da	Ministarstvo državne uprave i lokalne samouprave	
+12.	RAZVOJ PROCESA UPRAVLJANJA RIZIKOM KOD KJS 	12.1	Ažuriranje postojećih smernica za implementaciju procesa upravljanja rizikom kod KJS	2. kvartal 2018. godine	Ažurirane postojeće smernice
+PV: ne
+CV: da	CJH	TWINNING partner
+		12.2	Preuzimanje putem ,,e-learning” platforme modela upravljanja rizikom, radi lakše praktične primene od strane KJS	3. kvartal 2018. godine	Model upravljanja rizikom
+PV: 0
+CV: 1	CJH	TWINNING partner
+13.	RAZVOJ MODELA ZA EVALUACIJU KVALITETA FINANSIJSKOG UPRAVLJANJA I KONTROLE 	13.1	Uvođenje godišnje izjave o internim kontrolama od strane rukovodioca KJS	4. kvartal 2018. godine	Uvedena godišnja izjava o internim kontrolama 
+PV: ne
+CV: da	CJH	
+14.	KOMUNIKACIJA TAČNIH, RELEVANTNIH I PRAVOVREMENIH INFORMACIJA U VEZI SA FINANSIJSKIM I OPERATIVNIM UČINKOM UNUTAR I VAN ORGANIZACIJE  
+	14.1	Izmena postojećeg propisa kojim se uređuju načela za unutrašnju organizaciju državne uprave će obezbediti formiranje, odnosno određivanje unutrašnje organizacione jedinice koja će biti zadužena za internu i eksternu komunikaciju kroz pripremu tačnih, relevantnih i blagovremenih informacija u vezi sa finansijskim i operativnim učinkom za objavljivanje unutar i izvan organizacije
+	4. kvartal 2017. godine	Usvojen propis
+PV: ne
+CV: da	Ministarstvo državne uprave i lokalne samouprave	
+ 
+
+
+UNAPREĐENJE INTERNE REVIZIJE U SMISLU PROFESIONALNOSTI I OBUHVATA POSLOVA, EFIKASNIJEG KORIŠĆENJA RASPOLOŽIVIH RESURSA I RAZVOJA SISTEMA PROCENE KVALITETA
+
+	Ciljevi	Br.	Mera / Aktivnost	Rok	Pokazatelj	Nosilac aktivnosti	Partnerske institucije
+15.	RAZVIJANJE PROFESIONALNIH VEŠTINA INTERNIH REVIZORA 	15.1	Organizacija sastanaka radi razmene iskustava internih revizora iz institucija korisnika IPA, Kancelarije za reviziju sistema upravljanja sredstvima EU i CJH	Jednom godišnje	Beleške sa sastanaka	Ministarstvo finansija/ CJH	Institucije korisnika IPA, Kancelarija za reviziju sistema upravljanja sredstvima EU
+		15.2	Definisanje kroz propise stalnog profesionalnog usavršavanja internih revizora	4. kvartal 2017. godine	Donet propis o stalnom profesionalnom usavršavanju internih revizora
+PV: ne
+CV: da	Ministarstvo finansija/ CJH	
+		15.3	Usklađivanje materijala za obuku potrebnih za implementaciju ažuriranog Priručnika za internu reviziju 	30 dana po ažuriranju Priručnika za internu reviziju	Ažuriran materijal za obuku	Ministarstvo finansija/ CJH	
+16.	RAZVOJ MODELA ZA OCENIVANJE KVALITETA RADA INTERNIH REVIZORA 	16.1	Uređenje propisom eksterne ocene kvaliteta rada interne revizije kod KJS	3. kvartal 2018. godine	Donet propis o eksternoj kontroli kvaliteta interne revizije
+PV: ne
+CV: da	Ministarstvo finansija/ CJH	TWINNING partner
+		16.2	Razvoj modela za internu procenu kvaliteta interne revizije koji će koristititi jedinice za internu reviziju, a koji će pripremiti CJH, i razvoj smernica za osiguravanje kvaliteta interne revizije za rukovodioce jedinica za internu reviziju	4. kvartal 2018. godine	Razvijen model za internu procenu kvaliteta interne revizije i smernice za osiguravanje kvaliteta interne revizije za rukovodioce jedinica za internu reviziju
+PV: 0
+CV: 1	Ministarstvo finansija/ CJH	TWINNING partner
+17.	USPOSTAVLJANJE MINIMALNIH KRITERIJUMA ZA ORGANIZOVANJE ZAJEDNIČKE INTERNE REVIZIJE DVA ILI VIŠE KJS (SA ODREĐENE TERITORIJE, ISTOVRSNIH ILI SLIČNIH POSLOVA, MANJE VELIČINE) 	17.1	Izrada smernica za uspostavljanje funkcija interne revizije u okviru malih KJS, u vezi sa uspostavljanjem zajedničke jedinice za internu reviziju	4. kvartal 2018. godine	
+
+Razvijene smernice za uspostavljanje funkcija interne revizije kod malih KJS za uspostavljanje zajedničke jedinice za internu reviziju
+PV: 0
+CV: 1
+
+
+	Ministarstvo finansija/ CJH	KJS, TWINNING partner
+
+PRAĆENJE IMPLEMENTACIJE STRATEGIJE
+
+	Ciljevi	Br.	Mera / Aktivnost	Rok	Pokazatelj	Nosilac aktivnosti	Partnerske institucije
+18.	PRAĆENJE I IZVEŠTAVANJE 	18.1	Formiranje radne grupe za internu finansijsku kontrolu u javnom sektoru od predstavnika KJS i CJH	30 dana po donošenju Strategije	Formirana radna grupa za internu finansijsku kontrolu u javnom sektoru
+PV: 0
+CV: 1	KJS i CJH	
+		18.2	Praćenje implementacije Strategije i ostvarivanja ciljeva, mera i aktivnosti sadržanih u Akcionom planu, putem sastanaka Radne grupe za internu finansijsku kontrolu u javnom sektoru	Sastanci najmanje dva puta godišnje	Izveštaj sa sastanka
+PV: 0
+CV: 4	Radna grupe za internu finansijsku kontrolu i CJH	
+		18.3	Godišnje izveštavanje Vlade o sprovedenim aktivnostima, ostvarenim rezultatima i mogućim teškoćama u realizaciji ciljeva i mera	Jednom godišnje u okviru Konsolidova-nog godišnjeg izveštaja o stanju interne finansijske kontrole u javnom sektoru	Konsolido-vani godišnji izveštaj o stanju interne finansijske kontrole u javnom sektoru
+PV: 0
+CV: 2	CJH	
+
+ 
+Skraćenice:
+IFKJ – Interna finansijska kontrola u javnom sektoru
+PIFC – Public Internal Financial Control
+CJH – Centralna jedinica za harmonizaciju
+AFCOS – Anti-fraud Coordination Services
+FUK – Finansijsko upravljanje i kontrola 
+IR – Interna revizija 
+COSO – Komitet sponzorskih organizacija Nacionalne komisije za finansijsko izveštavanje o kriminalnim radnjama (proneverama)
+OLAF – European Anti-Fraud Office  
+INTOSAI – Smernice za internu kontrolu u javnom sektoru Međunarodne organizacije vrhovnih revizorskih institucija
+SIGMA – Support for Improvement in Governance and Management (joint initiative of the OECD and the European Union)
+PEMPAL – Public Expenditure Management Peer Assisted Learning
+KJS – Korisnici javnih sredstava
+SDC – Swiss Agency for Cooperation and Development
+UNDP – United Nations Development Programme
+TWINNING – European Union instrument for institutional cooperation between Public Administrations of EU Member States and of beneficiary country
+IT – Informacione tehnologije
