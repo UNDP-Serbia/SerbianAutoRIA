@@ -6523,8 +6523,7 @@ Akcioni plan za primenu Strategije prevencije i zaštite od diskriminacije za pe
 
 	Cilj: 
 
-	Izvršiti reforme pravnog okvira radi sprečavanja diskriminacije posebno osetljivih društvenih grupa u oblasti zdravstva, zdravstvene i socijalne zaštite i (socijalnog) stanovanja i značajno smanjiti broj slučajeva diskriminacije
-u oblasti zdravstva i zdravstvene zaštite i stanovanja
+	Izvršiti reforme pravnog okvira radi sprečavanja diskriminacije posebno osetljivih društvenih grupa u oblasti zdravstva, zdravstvene i socijalne zaštite i (socijalnog) stanovanja i značajno smanjiti broj slučajeva diskriminacije u oblasti zdravstva i zdravstvene zaštite i stanovanja
 	Indikator cilja:	1. Izvršene neophodne izmene i dopune zakona u oblasti zdravstva, zdravstvene zaštite, socijalne zaštite i stanovanja
     radi obezbeđenja načela jednakosti, jednakih prava i zabrane diskriminacije;
 2. Izvršena analiza pojedinih podzakonskih akata koje mogu predstavljati osnov diskriminatorskih praksi u
