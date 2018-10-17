@@ -1,0 +1,264 @@
+﻿na osnov član 45. stav 1. zakon o vlad („služben glasnik rs”, br. 55/05, 71/05 – ispravk, 101/07, 65/08, 16/11, 68/12 – us, 72/12, 7/14 – us i 44/14),
+
+vlad donos
+
+strategij razvoj informacion bezbednost u republic srbij
+za period od 2017. do 2020.  godin
+
+1. uvod
+
+1.1. informacion bezbednost u republic srbij
+
+informacion bezbednost je aspekt bezbednost koj se odnos na bezbednosn rizik povezan sa upotreb informacion-komunikacion tehnologij, uključuj bezbednost podatk, uređaj, informacion sistem, mrež, organizacij i pojedinc.
+razv novi tehnologij donos nesumnjiv korist za društv, al paraleln sa tehnološk razvoj dolaz i nov bezbednosn izazov. prem navod iz strategij informacion bezbednost evropsk un (cybersecurity strategy of the european union), visokotehnološk kriminal je vrst kriminal koj je u najveć porast, a milion ljud, uključuj dec, svakodnevn bud žrtv napad. hakersk napad na informacion sistem mogu bitn da ugroz poslovanj preduzeć, funkcionisanj državn infrastruktur i nacionaln bezbednost, dok su pojedinc, a pr sveg dec, sve viš izložen rizik od prevar, ucen i zlostavljanj put internet.
+upotreb informacion-komunikacion tehnologij (ikt) od stran držav, privred i građan je u porast i sve viš poslov i aktivnost se zasniv na njihov korišćenj. državn organ se u velik mer oslanja na informacion sistem, koj omogućava lakš i efikasn obavljanj poslov iz njihov nadležnost. kad je u pitanj opštenj organ i strank, treba istać da se elektronsk uprav razvij, da je br elektronsk uslug organ javn vlast u porast, čim se građan omogućuj olakšan pribavljanj različit dokument koj su im potrebn. javn preduzeć koj obavlja delatnost od opšteg interes, ka i privredn društv, upotrebljava informacion sistem u velik mer, a u pojedin delatnost, ka što je, na primer, delatnost proizvodnj, distribucij i snabdevanj električn energij, poslov se u znatn mer oslanja na ikt sistem. brojn ustanov, ka, na primer, ustanov u oblast zdravstven zaštit, vod evidencij u okvir svoji informacion sistem. upotreb internet je u porast na svim nivo. prem podac republičk zavod za statistik, objavljen u okvir dokument „upotreb informacion-komunikacion tehnologij u republic srbij, 2016”, utvrđen je da 99.8% preduzeć na teritorij republik srbij korist računar u svom poslovanj, da 99,8% preduzeć im internet priključak, a 99,1% im širokopojasn (broadband) internet konekcij. prem ist izvor, 98,6% preduzeć korist elektronsk servis javn uprav. sa drug stran, 65,8% domaćinstv poseduj računar, 64,7% domaćinstv poseduj internet priključak, a 57,8% domaćinstv u republic srbij im širokopojasn (broadband) internet konekcij. takođ, prek 1.510.000 lic korist elektronsk servis javn uprav, a prek 1.450.000 lic kupova je il poručiva rob/uslug put internet u poslednj godin dan.
+napad na informacion sistem mogu da bitn ugroz funkcionisanj držav, ka što je bio slučaj u eston 2007. godin, kad je izvršen sajber napad na ikt sistem državn organ i finansijsk institucij, i kad je došl do blokad uslug elektronsk uprav, koj se masovn korist u toj držav, ka i platn promet.  pozna je i slučaj unošenj računarsk virus „staksnet” u nuklearn elektran u iran 2010. godin, sa namer da se izvrš sabotaž industrijsk sistem. u februar 2016. godin haker su uspel da ukrad 81 milion dolar centraln banc bangladeš tak što su provali u njihov računarsk mrež, otkri ključev za pristup swift sistem i neovlašćen izda nalog za prenos sredstav sa račun u banc federaln rezerv u njujork. pored tog, postoj pretnj po nacionaln bezbednost koj se po međunarodn prav ne mogu svrsta u oblik oružan agresij, al su prisutn u međunarodn odnos.
+prem podac ministarstv unutrašnj poslov, br prijavljen krivičn del iz oblast visokotehnološk kriminal rast 50% godišnj. napad na server državn organ sve su učestalij i napredn.
+republik srbij je prepozna informacion bezbednost ka jedn od šest prioritetn oblast razvoj informacion društv i preduzel korak u cilj uspostavljanj sveobuhvatn okvir informacion bezbednost. u sklad sa tim, strategij razvoj informacion društv u republic srbij do 2020. godin („služben glasnik rs”, br 51/10) predviđ da razv i unapređenj informacion bezbednost treba postić kroz unapređenj pravn i institucionaln okvir, zaštit kritičn informacion infrastruktur, borb protiv visokotehnološk kriminal i naučn–istraživačk rad.
+zakon o informacion bezbednost („služben glasnik rs”, br 6/16 – u dalj tekst: zakon) stvori je osnov za uspostavljanj i primen sveobuhvatn okvir u oblast informacion bezbednost. zakon  se uređuj mer zaštit od bezbednosn rizik u ikt sistem od posebn značaj, odgovornost operator ikt sistem od posebn značaj prilik upravljanj i korišćenj ikt sistem i određuj se nadležn organ za sprovođenj mer zaštit, koordinacij izmeđ činilac zaštit i praćenj praviln primen propisan mer zaštit.
+u smisl uspostavljanj sveobuhvatn okvir, zakon takođ ostavlj prostor i za uključivanj drug akter, poput privatn sektor, akademsk zajednic i civiln društv, tak što predviđ formiranj posebn radn grup u okvir tel za koordinacij poslov informacion bezbednost.
+po pitanj informacion bezbednost pojedinc, posebn je značajn bezbednost dec. upotreb ikt i internet kod dec u republic srbij je veom raširen. istraživanj unicef-a   sproveden 2012. godin na teritorij republik srbij, pokaza je da viš od 90% starij osnovc i srednjoškolc im mobiln telefon i da ok 90% dec korist internet. ist istraživanj je ukaza na visok stop izloženost rizik na internet i izloženost digitaln nasilj, odnosn dve trećin dec su bili izložen nek vrst onlajn rizik. pr tom polovin ispitan nastavnik izjavljuj da ne poseduj odgovarajuć veštin korišćenj računar i internet, a skor polovin smatr da je nedovoljn informisan o digitaln nasilj. prem istraživanj unicef-a iz 2016. godin, „istraživanj o nivo svest o potencijaln internet rizik i zloupotreb međ roditelj dec uzrast 8 do 17 godin”, tek nešt viš od 50 odst roditelj smatr seb dovoljn, al ne i potpun sposobn da pruž pomoć i podršk svom detet u takv situacij. u istraživanj je istakn da 25 odst roditelj navod da je njihov det bilo izložen rizičn il opasn situacij na internet u poslednj 12 mesec od dan ispitivanj. pored tog, naveden je da 85% dec u uzrast od 8 do 17 godin poseduj mobiln telefon, od koji su 63% „pametn telefon”, ka i da dva od tr detet u provod u prosek prek sat vremen dnevn na internet.
+opšt cilj strategij je razv i unapređenj informacion bezbednost u republic srbij i njen održavanj na adekvatn nivo, a s obzir da su donošenj propis u ov oblast definisan ikt sistem od posebn značaj, mer zaštit, nadležn organ, izazov za ostvarenj cilj nalaz se u stvaranj preduslov za kontinuiran unapređenj kadrov, kak kroz uvođenj posebn program na univerzitet iz oblast informacion bezbednost, tak i kroz kontinuiran obučavanj i usavršavanj zaposlen u relevantn institucij koj se bav informacion bezbednost. uzima u obzir dinamičnost ov oblast, jedan od ključn preduslov za kontinuiran održavanj adekvatn nivo informacion bezbednost je uspostavljanj centr za razv i istraživanj koj bi im ulog praćenj kretanj u ov oblast i, shodn tom, davanj doprinos dalj unapređenj informacion bezbednost u sklad sa najnov saznanj i tehnološk rešenj. ostvarivanj ciljev strategij postiž se stabiln funkcionisanj ikt sistem od posebn značaj, informacion bezbednost građan i republik srbij, podiž se kapacitet za borb protiv visokotehnološk kriminal, s tim da je za realizacij tog od ključn značaj saradnj izmeđ javn sektor, privatn sektor, nevladin organizacij, akademsk zajednic i drug relevantn činilac.
+s obzir značaj i širin oblast informacion bezbednost, vlad donos ov strategij u cilj razvoj i unapređenj informacion bezbednost u republic srbij.
+
+1.2. regulatorn okvir informacion bezbednost
+
+oblast informacion bezbednost regulisan je sledeć propis:
+-	zakon o informacion bezbednost („služben glasnik rs”, br 6/16);
+-	zakon o organizacij i nadležnost državn organ za borb protiv visokotehnološk kriminal („služben glasnik rs”, br. 61/05 i 104/09);
+-	krivičn zakonik („služben glasnik rs”, br. 85/05, 88/05 - ispravk, 107/05 - ispravk, 72/09, 111/09, 121/12, 104/13, 108/14 i 94/16);
+-	zakon o tajnost podatk („služben glasnik”, br 104/09);
+-	zakon o zaštit podatk o ličnost („služben glasnik rs”, br. 97/08, 104/09 – dr. zakon, 68/12 –us i 107/12);
+-	zakon o elektronsk komunikacij („služben glasnik rs”, br. 44/10, 60/13 –us i 62/14);
+-	zakon o potvrđivanj konvencij o visokotehnološk kriminal („služben glasnik rs”, br 19/09);
+-	zakon o potvrđivanj dodatn protokol uz konvencij o visokotehnološk kriminal koj se odnos na inkriminacij del rasističk i ksenofobičn prirod izvršen prek računarsk sistem („služben glasnik rs”, br 19/09);
+-	zakon o potvrđivanj konvencij savet evrop o zaštit dec od seksualn iskorišćavanj i seksualn zlostavljanj („služben glasnik rs – međunarodn ugovor”, br 1/10);
+-	zakon o vojnobezbednosn agencij i vojnoobaveštajn agencij („služben glasnik rs”, br. 88/09, 55/12 - us i 17/13).
+
+
+
+2. princip razvoj informacion bezbednost
+
+razv informacion bezbednost u republic srbij počiv na sledeć princip:
+1) informacion bezbednost čin sastavn de sveukupn bezbednost i u funkcij je ostvarivanj i poštovanj prav, slobod i interes građan, privred i držav;
+2) informacion bezbednost je od značaj za sve društven činioc koj korist informacion-komunikacion tehnologij, a koj treba da budu svesn rizik povezan sa upotreb tehnologij i da preduzima preventivn i drug potrebn mer zaštit;
+3) informacion bezbednost podrazumev blagovremen prepoznavanj rizik, preduzimanj preventivn mer i efikasn reakcij na incident;
+4) potrebn je uspostavi i unapređiva redovn i efikasn razmen informacij o rizik i incident u oblast informacion bezbednost na nacionaln i međunarodn nivo;
+5) nastavi kontinuiran razv sistem zaštit u informacion bezbednost na pravn, organizacion i tehničk nivo, uz prilagodljivost novi okolnost i izazov;
+6) sistematsk podiza svest i unapređiva znanj i veštin kod svih kategorij građan po pitanj informacion bezbednost u svakodnevn život i na radn mest;
+7) uspostavi staln saradnj izmeđ javn i privatn sektor, ka osnov za razv i unapređenj stratešk prioritet.
+
+
+
+
+
+
+
+3. prioritetn oblast i stratešk ciljev
+
+u cilj razvoj i unapređenj informacion bezbednost u republic srbij utvrđuj se sledeć prioritetn oblast:
+1) bezbednost informacion-komunikacion sistem, što se odnos na rizik narušavanj funkcionisanj organ vlast, privred i organizacij ka posledic incident  u informacion-komunikacion sistem;
+2) informacion bezbednost građan, što se odnos na rizik narušavanj bezbednost građan zloupotreb informacion-komunikacion tehnologij;
+3) borb protiv visokotehnološk kriminal, što se odnos na prevencij i sankcionisanj krivičn del koj se zasniva na zloupotreb informacion-komunikacion tehnologij;
+4) informacion bezbednost republik srbij, što se odnos na rizik narušavanj nacionaln bezbednost put informacion-komunikacion sistem;
+5) međunarodn saradnj, što podrazumev saradnj sa stran državn organ, međunarodn organizacij i drug partner u oblast informacion bezbednost.
+u okvir prioritetn oblast određuj se sledeć stratešk ciljev:
+1) u oblast bezbednost informacion-komunikacion sistem:
+(1) prevencij i zaštit put razmen informacij, praćenj aktueln rizik i podizanj svest,
+(2) bezbednost ikt sistem u privredn subjekt i bezbednost elektronsk poslovanj,
+(3) bezbednost ikt sistem od posebn značaj,
+(4) bezbednost tajn podatk u ikt sistem,
+(5) saradnj javn i privatn sektor u oblast informacion bezbednost;
+2) u oblast bezbednost građan pr korišćenj tehnologij:
+(1) bezbednost dec na internet,
+(2) zaštit privatnost i zaštit od zloupotreb pr korišćenj ikt,
+(3) informacion bezbednost u obrazovn sistem;
+3) u oblast borb protiv visokotehnološk kriminal:
+(1) unapređenj mehanizm za otkrivanj visokotehnološk kriminal i krivičn gonjenj učinilac,
+(2) podizanj svest o opasnost od visokotehnološk kriminal,
+(3) unapređenj međunarodn saradnj u borb protiv visokotehnološk kriminal;
+4) u oblast informacion bezbednost republik srbij:
+(1) sist informacion bezbednost od značaj za nacionaln bezbednost,
+(2) razv naučn, tehnološk i industrijsk kapacitet neophodn za zaštit informacion bezbednost republik srbij,
+(3) izgradnj vojn kapacitet sistem odbran za odbran od visokotehnološk napad,
+(4) izgradnj bezbednosn-obaveštajn kapacitet u oblast informacion bezbednost;
+5) međunarodn saradnj.
+
+
+
+3.1. bezbednost informacion-komunikacion sistem
+
+incident u oblast informacion bezbednost su običn povezan sa narušen bezbednost informacion-komunikacion sistem, što može biti prova u sist, pristup podac koj nij treba da bud omogućen, izazivanj problem u rad sistem i sličn. krajnj posledic takv incident najčešć izlaz iz okvir sam ikt sistem i odnos se na poslov, organizacij i ljud koj se neposredn il posredn oslanja na ikt sist. na primer, prekid rad informacion sistem u banc može onemogućit bank da opslužuj svoj klijent, a klijent bank može dovest u situacij da ne može da plat račun svoj kreditn kartic. takv incident širi razmer mogu ugrozit funkcionisanj držav, privred i društv, zbog čeg se određuj ikt sistem od posebn značaj za koj postoj zakonsk obavez staranj o informacion bezbednost u sklad sa zakon.
+
+3.1.1. razmen informacij, praćenj aktueln rizik i podizanj svest
+
+u svim sferam bezbednost se kontinuiran pojavljuj nov tehnik i sredstv ugrožavanj bezbednost i nov mer zaštit, al ni u jedn oblast se to ne dešav tolik dinamičn ka u informacion bezbednost.
+zbog tog je pravovremen informisanj, podizanj svest, korigovanj navik i pružanj relevantn informacij o bezbednosn rizik i način otklanjanj posledic incident od izuzetn važnost.
+brz, pouzdan i efikasn razmen informacij može da utič da organ javn vlast, privredn subjekt i građan preduzm blagovremen i adekvatn mer zaštit svoji sistem i uređaj, i tak spreč da se des incident, odnosn ublaž posledic incident koj se ostvari.
+zbog tog, zakon je ustanovljen  nacionaln centr za prevencij bezbednosn rizik u ikt sistem (nacionaln cert) u okvir regulatorn agencij za elektronsk komunikacij i poštansk uslug (ratel), a čij je zadatk da prikuplj i razmenjuj informacij o rizik za bezbednost ikt sistem, ka i događaj koj ugrožava bezbednost ikt sistem i u vez tog obaveštav, upozorav i savetuj lic koj upravlja ikt sistem u republic srbij, ka i javnost.
+nacionaln cert treba da sarađuj sa sličn organizacij drug zemalj, s obzir na globaln karakter izazov u oblast informacion bezbednost.
+nacionaln cert treba da sarađuj sa relevantn međunarodn institucij na polj informacion bezbednost i učestvuj ka član u njihov rad.
+od izuzetn je značaj efikasn uspostavljanj i staln unapređivanj rad nacionaln cert-a, kak bi u što već mer odgovori na ulog koj mu je dat.
+u okvir republičk organ zakon je ustanovljen centr za bezbednost ikt sistem u republičk organ (u dalj tekst: cert republičk organ) u okvir uprav za zajedničk poslov republičk organ, a obavlj poslov koj se odnos na zaštit od incident u ikt sistem republičk organ, izuzev ikt sistem samostaln operator.
+
+pored tog zakon je ostavljen mogućnost formiranj nezavisn posebn cert-ov koj obavlja poslov prevencij i zaštit od bezbednosn rizik u ikt sistem u okvir određen pravn lic, grup pravn lic, oblast poslovanj i sličn. posebn cert-ov se evidentiraj kod nacionaln cert-a. na taj način treba da se uspostav mrež cert-ov izmeđ koji će se efikasn i brz razmenjiva informacij i iskustv.
+
+
+3.1.2. bezbednost ikt sistem u privredn subjekt i bezbednost elektronsk poslovanj
+
+razvoj elektronsk poslovanj privredn subjekt su sve viš izložen bezbednosn rizik vezan za tehnologij koj korist.
+pr sveg je u privredn subjekt potrebn uspostavlja i unapređiva sistem upravljanj informacion bezbednost u sklad sa međunarodn standard i dobri praks iz drug zemlj.
+pored aktivnost cert-a koj su usmeren na podizanj svest, izmeđ ostalog, privredn subjekt, potrebn je ka poseban prioritet postavi unapređivanj bezbednost ikt sistem u privred. shodn tom, značaj nacionaln cert-a se ogled i u podizanj svest privredn subjekt o potreb primen mer zaštit, u sklad sa nacionaln i međunarodn standard, ka i o korist uspostavljanj posebn cert-ov (u okvir određen privredn subjekt, grup privredn subjekt il oblast poslovanj) koj treba da im važn ulog u prevencij i zaštit ikt sistem  i razmen informacij sa drug relevantn činioc sistem informacion bezbednost u republic srbij. u cilj podizanj svest o bezbednosn rizik i značaj primen mer zaštit, od velik značaj je učešć i nevladin sektor, akademsk zajednic i drug subjekt u ov oblast.
+
+
+3.1.3. bezbednost ikt sistem od posebn značaj
+
+kad narušavanj bezbednost pojedin ikt sistem il nekolik ikt sistem iz ist oblast može da doved do značajn narušavanj funkcionisanj javn institucij, privred i svakodnevn život građan, tad odgovornost za bezbednost takv ikt sistem izlaz iz okvir štet nanet preduzeć, organizacij il institucij koj ikt sist pripad. to su ikt sistem od koji zavis kritičn infrastruktur il sistem koj sam po seb predstavlja kritičn infrastruktur. s obzir da u pravn sistem još uvek nij formaln uveden poja kritičn infrastruktur, u zakon se takv sistem označava ka ikt sistem od posebn značaj.
+operator ikt sistem od posebn značaj im zakon utvrđen obavez staranj o informacion bezbednost i po tom pitanj su pod nadzor nadležn državn organ.
+
+
+
+takođ je propisan da ikt sistem od posebn značaj obaveštava nadležn organ uvek kad se des incident u ikt sistem koj može da im značajn uticaj na narušavanj informacion bezbednost. operator ikt sistem od posebn značaj moraju da budu svesn značaj prijav incident, ka i njihov posledic na nacionaln i međunarodn nivo.
+nadležn organ uspostavlj i unapređuj međunarodn  saradnj u oblast bezbednost ikt sistem, koj će se dodatn formalizova pristupanj republik srbij evropsk un, a na osnov direktiv o mrežn i informacion bezbednost evropsk un.
+nadležn organ kontinuiran pra stanj informacion bezbednost put inspekcijsk nadzor, prijem i obrad prijav obaveštenj o incident u ikt sistem od posebn značaj koj mogu da im značajn uticaj na narušavanj informacion bezbednost, ka i na osnov analiz rizik i incident koj izrađuj nacionaln cert, i u sklad sa tim unapređuj oblast informacion bezbednost uz saradnj svih relevantn institucij, a posebn on čij predstavnic učestvuj u rad tel za koordinacij poslov informacion bezbednost. shodn tom, od izuzetn je značaj izgradnj kapacitet nadležn organ, to jest ministarstv trgovin, turizm i telekomunikacij, po pitanj inspekcij za informacion bezbednost i prijem i obrad prijav o incident, ka i kapacitet drug institucij nadležn u oblast informacion bezbednost.
+sa drug stran predstoj uspostavljanj sistem upravljanj informacion bezbednost u sklad za propisan uslov u velik broj operator ikt sistem od posebn značaj, što je krajnj svrh zakonsk mer i od ključn je važnost za bezbednost kritičn infrastruktur u republic srbij.
+
+
+3.1.4. bezbednost tajn podatk u ikt sistem
+
+tajn podatk u ikt sistem je podatk koj je, u sklad sa propis o tajnost podatk, određen i označen određen stepen tajnost.
+zaštit tajn podatk u ikt sistem predstavlj posebn bezbednosn izazov, im u vid da najsofisticiranij oblic visokotehnološk napad (uključuj špijunaž)  predstavlja uprav napad na sadržaj tajn podatk.
+neovlašćen pristup tajn podac i njihov krađ iz ikt sistem državn institucij, javn i privatn preduzeć, ka i napad na ikt infrastruktur od vitaln značaj za funkcionisanj držav mogu se posmatra ka jedan od najteži oblik napad na ikt sist.
+zakon o tajnost podatk, i na osnov tog zakon doneti podzakonsk akt, uspostavljen je osnov normativn okvir za rad sa tajn podac, uključuj i pitanj tajn podatk koj se obrađuj u informacion-komunikacion sistem, ka i nadležnost kancelarij savet za nacionaln bezbednost i zaštit tajn podatk u ov oblast. u naredn period treba izvrši nadogradnj nacionaln regulativ i nadležnost kancelarij savet za nacionaln bezbednost i zaštit tajn podatk  u područj zaštit tajn podatk u ikt sistem, u sklad sa odgovarajuć direktiv evropsk un, sa posebn težišt na određivanj nadležnost i propisivanj proces akreditacij ikt sistem za rad sa tajn podac.
+
+od prioritetn značaj za unapređivanj bezbednost tajn podatk u ikt sistem je brz i efikasn okončanj uspostavljanj jedinstven sistem i postupk akreditacij ikt sistem za rad sa tajn podac, definisanj mer zaštit ikt sistem za rad sa tajn podac, donošenj nacionaln program za podizanj svest pr korišćenj ikt sistem za rad sa tajn podac, ka i donošenj nacionaln metodologij za procen rizik za  ikt sistem za rad sa tajn podac. u tom cilj, potrebn je dodatn ojača kapacitet  kancelarij savet za nacionaln bezbednost i zaštit tajn podatk i drug nadležn državn organ.
+
+
+3.1.5. saradnj javn i privatn sektor u oblast informacion bezbednost
+
+za održavanj adekvatn nivo informacion bezbednost u republic srbij, potrebn je, pored držav, učešć i drug – privred, građan, nevladin sektor, akademsk zajednic i ostali relevantn činilac. saradnj izmeđ javn i privatn sektor može da bud veom značajn za industrijsk istraživanj i inovacij u oblast informacion bezbednost, a veom bitan segment saradnj je razmen informacij u cilj adekvatn pripremljenost i odgovor na bezbednosn rizik i incident.
+zakon je ostavljen prostor za uključivanj akter iz privatn, akademsk i civiln sektor u napor usmeren na jačanj informacion bezbednost u republic srbij put formiranj posebn radn grup u okvir tel za koordinacij poslov informacion bezbednost. u tom smisl, uspostavljanj saradnj javn i privatn sektor koj će omogućit efikasn komunikacij i optimizacij planiran buduć aktivnost, odnosn blagovremen razmen informacij i deljenj resurs takođ je jedan od polazn prioritet za unapređivanj oblast informacion bezbednost u republic srbij.
+sve ov aktivnost treba da vod ka uspostavljanj trajn poverenj u okvir informacion bezbednost izmeđ svih akter: javn sektor odnosn predstavnik državn institucij, privatn sektor, odnosn privred i građan organizovan u civiln društv.
+
+3.2. bezbednost građan pr korišćenj tehnologij
+
+pored izloženost preduzeć, organizacij i organ vlast rizik informacion bezbednost, tim rizik je izložen i svak pojedinc. pojedinc mogu doživet finansijsk prevar, narušavanj ugled zbog otkrivanj intimn sadržaj, ucen, štet zbog gubitk podatk, a posebn ugrožen kategorij su dec, koj su pored sveg tog čest žrtv zlostavljanj.
+
+
+
+
+
+
+
+3.2.1. bezbednost dec na internet
+
+dec u sve već mer i sve ran počinj da korist informacion-komunikacion tehnologij i pristup internet. širenj upotreb mobiln uređaj dec u svak trenutk, bez nadzor odrasli mogu da ostvar pristup internet, da uspostavlja kontakt sa nepoznat osob prek društven mrež, da previš izlaž ličn podatk o seb i svoj porodic, da jedn prem drug ispoljava individualn i organizovan verbaln agresij, da snima i razmenjuj fotografij i vide zapis koj njim il drug osob mogu nanet štet. svi ov rizic dešava se u okolnost složen socijaln odnos međ dec, uključuj narastajuć vršnjačk nasilj.
+donošenj zakon o ratifikacij konvencij ujedinjen nacij o prav detet („služben list sfrj – međunarodn ugovor”, br 15/90 i „služben list srj – međunarodn ugovor”, br. 4/96 i 2/97) držav se obaveza da preduzm mer za sprečavanj i da obezbed zaštit detet od svih oblik nasilj u porodic, institucij i šir društven sredin. odredb konvencij predviđen je da držav preduzima mer koj se odnos na zaštit detet od: fizičk i mentaln nasilj, zloupotreb i zanemarivanj i svih drug oblik iskorišćavanj (eksploatacij) štetn po bilo koj vid detetov dobrobi. takođ, konvencij je određen obavez držav da obezbed mer podršk za fizičk i psihičk oporavak detet – žrtv nasilj i njegov socijaln reintegracij.
+opšt protokol za zaštit dec od zlostavljanj i zanemarivanj, koj je vlad usvoji zaključk 05 br: 011-5196/2005 od 25. avgust 2005. godin, predviđ da u proces zaštit detet od zlostavljanj i zanemarivanj treba da učestvuj ustanov i pojedinc iz različit sistem (zdravstv, obrazovanj, socijaln zaštit, policij, pravosuđ i dr), svak od njih u okvir svoji nadležnost.
+strategij evropsk un za bolj internet za dec, donet 2012. godin, predviđen je da dec, roditelj, staratelj i nastavnic moraju da budu svesn rizik koj postoj na internet, ka i da je potrebn da dec budu savetovan i informisan o bezbedn način korišćenj internet. naveden je da je potrebn da se uspostav mehanizm koj će omogućit jednostavn i lak dostupn prijavljivanj štetn i neprimeren sadržaj za dec.
+vlad je u jul 2016. godin donel uredb o bezbednost i zaštit dec pr korišćenj informacion-komunikacion tehnologij („služben glasnik rs”, br 61/16). na osnov ov uredb, ministarstv trgovin, turizm i telekomunikacij preduz preventivn mer za bezbednost i zaštit dec na internet put informisanj i edukacij, i uspostavi je nacionaln kontakt centr za bezbednost dec na internet ka jedinstven mest za pružanj savet i pri prijav u vez sa bezbednost dec na internet.
+za adekvatn zaštit dec na internet potrebn je podizanj svest i roditelj i dec, ka i jačanj ulog škol kroz odgovarajuć školsk program i podizanj kapacitet nastavnik. javn institucij koj sa različit pozicij reaguj kad dođ do određen posledic, ka što su ministarstv unutrašnj poslov, centr za socijaln rad i zdravstven ustanov takođ treba da podiž svoj kapacitet u ov oblast.
+već pažnj zaštit dec na internet, kroz odgovarajuć programsk sadržaj, potrebn je posveti i u medij i tim doprinet podizanj svest roditelj i dec, a što se posebn odnos na javn servis.
+potrebn je dalj podiza kapacitet i jača ulog jedinstven mest za pružanj savet i pri prijav u vez sa bezbednost dec na internet, uključuj koordinacij podršk u pojedinačn slučaj i koordinacij uspostavljanj novi sistemsk rešenj za prepozna tipov problem.
+u saradnj nadležn ministarstav sa operator elektronsk komunikacij i akademsk mrež republik srbij treba definisa mer koj će na tehničk nivo moć da se ogranič izloženost dec neodgovarajuć sadržaj.
+
+
+3.2.2. zaštit privatnost i zaštit od zloupotreb pr korišćenj ikt
+
+rizic koj nasta zbog prekomern dostupnost ličn podatk čest u dovoljn mer nis sagledan kak od vlasnik podatk, tak ni od obrađivač, pr čem kod obrađivač nis retk slučaj i namern prenebregavanj potreb zaštit podatk o ličnost.
+većin incident u oblast informacion bezbednost u koj je ugrožen bezbednost pojedinc uključuj i zlonamern saznavanj ličn podatk, bilo da su ti podac dobijen na prevar (takozvan „pecanj” ličn podatk), prova u računar il drug ličn uređaj il oticanj podatk iz zbirk podatk.
+potrebn je dalj unapređiva zakonsk okvir u oblast zaštit podatk o ličnost, a u sklad sa standard evropsk un, ka i otklanja preprek za efikasn primen zakon.
+sa drug stran je kod građan potrebn značajn podić svest o značaj čuvanj sopstven ličn podatk i neprihvatanj nesrazmern davanj i objavljivanj ličn podatk, ka i o moguć prevaram i drug zloupotreb put internet i o odgovarajuć preventivn meram.
+
+
+3.2.3. informacion bezbednost u obrazovn sistem
+
+„misij sistem obrazovanj u republic srbij u 21. vek je da osigur osnovn temelj život i razvoj svak pojedinc, društv i držav zasnovan na znanj.”   u sklad sa tak definisan misij, strategij razvoj obrazovanj do 2020 godin, ka jedan od ciljev razvoj obrazovanj postavlj se dostizanj i održavanj relevantnost obrazovanj, u sklad sa neposredn i razvojn potreb pojedinc, ekonomsk, socijaln, kulturn, istraživačk, obrazovn, javn, administrativn i drug sistem.
+obrazovn sist treba da obezbed razv i sticanj opšt/međupredmetn kompetencij učenik osnovn i srednj škol koj su relevantn za ličn, profesionaln i socijaln razv i funkcionisanj pojedinc u savremen svet. ovak definisan kompetencij izlaz iz okvir tradicionaln školsk predmet i angažuj školsk znanj na priprem učenik da budu konkurentn i funkcionaln u sadašnj i buduć obrazovn i profesionaln prostor i da kompetentn i aktivn realizuj svoj građansk ulog. jedn od međupredmetn kompetencij je i digitaln pismenost: „učenik je sposoban da korist raspoloživ sredstv iz oblast informacion-komunikacion tehnologij (uređaj, softversk proizvod, elektronsk komunikacion uslug i uslug koj se korist put elektronsk komunikacij) na odgovoran i kritičk način rad efikasn ispunjavanj postavljen ciljev i zadatk u svakodnevn život, školovanj i buduć posl. prilik korišćenj ikt-a svestan je rizik za sopstven i tuđ sigurnost i dobrobi i odgovorn postupanj seb i drug štit od neželjen posledic.”
+misij obrazovanj za 21. vek i usmerenost obrazovn proces na razv kompetencij utica su na definisanj stratešk mer za razv digitaln kompetencij i korišćenj ikt. ov mer pr sveg se odnos na unapređenj kvalitet uslov (definisanj standard školsk prostor i didaktičk, umetničk i informatičk oprem i definisanj mehanizm kontrol primen tih standard) i kvalitet proces nastav i učenj, u koj se poziv na korišćenj prednost informacion-komunikacion tehnologij i različit oblik učenj u on-lin okruženj (elektronsk konferencij, predmetn blogov, diskusion tribin, elektronsk testiranj itd.), i podizanj kompetencij nastavnik da korist informacion - komunikacion tehnologij u nastav il njen priprem kroz inicijaln obrazovanj i sist usavršavanj nastavnik.
+zbog kompleksnost pitanj uspešn integracij ikt u sist obrazovanj, ka i činjenic da do sad nis izrađen dokument koj bi pomogl formulisanj obrazovn politik u ov oblast, nacionaln prosvetn savet (nps) je inicir izrad dokument smernic za unapređivanj ulog informacion-komunikacion tehnologij u obrazovanj (smernic).
+smernic daj prikaz svih preporuk organizovan na osnov dva kriterijum: u odnos na niv opštost i prem prioritet implementacij (visok- hitn intervencij, srednj početk u tok jedn godin i nizak prioritet  u period tr do pet godin). prem kriterijum opštost, preporuk su klasifikovan u odnos na niv: a) strategij razvoj: dugoročn planiranj, primarn donošenj zakon i praćenj savremen tendencij; b) obrazovn institucij: preporuk koj se primenjuj na institucionaln nivo; i v) nastavn praks: preporuk koj se odnos na neposredan rad nastavnik.
+zbog višefunkcionalnost obrazovn-vaspitn sistem, neophodn je čvrst interresorsk saradnj u vez sa bezbednost dec pr korišćenj ikt (naročit s oblast bezbednost, zdravstv i socijaln politik). resor u domen svoji nadležnost treba da definiš i realizuj odgovarajuć stručn standard. neophodn je na nacionaln nivo uspostavi funkcionaln mehanizm koordinacij izmeđ različit sistem i jasn definisa njihov ulog.
+obrazovn sist treba da omoguć sticanj znanj u oblast informacion bezbednost, kroz uvođenj posebn studijsk program na univerzitet, čim bi se doprinel povećanj broj stručn kadrov u ov oblast, što je neophodn, im u vid brzin razvoj ikt i povećanj rizik od bezbednosn incident.
+
+
+3.3. borb protiv visokotehnološk kriminal
+
+zakon o organizacij i nadležnost državn organ za borb protiv visokotehnološk kriminal, zajedn sa odredb krivičn zakonik, o krivičn del visokotehnološk kriminal, uspostavlja institucionaln i pravn osnov za sankcionisanj krivičn del u ov oblast. prem podac ministarstv unutrašnj poslov, u 2013. godin otkriven je 961 krivičn del u oblast visokotehnološk kriminal, u 2014. godin 1.423 ovakv del, a u 2015. godin taj br je značajn povećan i iznos 2.074, što na prav način ilustruj razmer i značaj sprečavanj i suzbijanj ov oblik kriminal.
+
+
+3.3.1. unapređenj mehanizm za otkrivanj visokotehnološk kriminal i krivičn gonjenj učinilac
+
+u cilj efikasn borb protiv visokotehnološk kriminal neophodn je unapredi postojeć zakonodavn okvir. republik srbij usvoji je 2009. godin zakon o potvrđivanj konvencij o visokotehnološk kriminal cets 185 (budimpeštansk konvencij) i zakon o potvrđivanj dodatn protokol uz konvencij o visokotehnološk kriminal koj se odnos na inkriminacij del rasističk i ksenofobičn prirod izvršen prek računarsk sistem, dok je 2010. godin usvojen zakon o potvrđivanj konvencij savet evrop o zaštit dec od seksualn iskorišćavanj i seksualn zlostavljanj.
+međut, republik srbij još uvek nij u potpunost uskladi svoj zakonodavstv sa direktiv 2013/40/eu o napad na informatičk sistem, koj je jedan od mehanizm za otkrivanj i krivičn gonjenj izvršilac krivičn del iz ov oblast.
+evolucij način izvršenj visokotehnološk kriminal pra razv informacion tehnologij. ov je jedan od vid kriminal sa najviš stop rast, im u vid da svak dan viš od milion ljud šir svet postan žrtv krivičn del. iz naveden razlog, nadležn državn organ – specijalizovan organizacion jedinic za visokotehnološk kriminal u okvir ministarstv unutrašnj poslov i posebn tužilaštv za visokotehnološk kriminal moraju unapredi operativn alat i operativn sposobnost za suzbijanj ov vrst krivičn del. takođ, neophodn je unapredi koordiniracij i zajedničk pristup organ otkrivanj, organ gonjenj, javn i privatn sektor.
+pored tog, potrebn je nastavi sprovođenj obuk sudij za postupanj u ov predmet, im u vid ubrzan razv savremen informacion tehnologij ka i nov način na koj se vrš krivičn del visokotehnološk kriminal.
+
+
+3.3.2. podizanj svest o opasnost od visokotehnološk kriminal
+
+krajnj korisnik igraj ključn ulog u obezbeđivanj sigurnost mrež i informacion sistem, te stog moraju biti svesn rizik sa koj se suočava na mrež i spremn da preduzm jednostavn korak da spreč nastanak rizičn situacij.
+u tom smisl, neophodn je da državn organ, javn i privatn sektor organizuj javn kampanj o najzastupljen oblic visokotehnološk kriminal, ka što su neovlašćen pristup računar il računarsk mrež, ugrožavanj sigurnost, prevar put internet, zloupotreb platn kartic, te kampanj i radionic fokusiran na bezbednost dec na internet, pr sveg od digitaln nasilj i seksualn eksploatacij.
+
+3.3.3. unapređenj međunarodn saradnj u borb protiv visokotehnološk kriminal
+
+im u vid da visokotehnološk kriminal, usled globaln domet internet, ne pozna granic, od izuzetn je važnost dodatn unapredi međunarodn saradnj sa relevantn organ stran zemalj. republik srbij, ka jedn od potpisnic budimpeštansk konvencij im zapažen ulog u rad 24/7 mrež kontakt tačk uspostavljen na osnov konvencij, sa određen dva predstavnik za saradnj i hitn postupanj u predmet iz ov oblast. jedn kontakt tačk je posebn tužilac za visokotehnološk kriminal, a drug predstavnik jedinic za visokotehnološk kriminal ministarstv unutrašnj poslov.
+
+
+3.4. informacion bezbednost republik srbij
+
+informacion bezbednost republik srbij je ključn de sveobuhvatn nacionaln bezbednost koj se zasniv na informacion bezbednost institucij, snag, ljud, sistem, proces, informacij i vrednost koj su od značaj za bezbednost i odbran zemlj.
+informacion-komunikacion infrastruktur, servis i podac sistem odbran im poseban značaj za nacionaln bezbednost republik srbij. sami tim, informacion bezbednost sistem odbran jedn je od ključn komponent informacion bezbednost u republic srbij.
+
+
+3.4.1. sist informacion bezbednost od značaj za nacionaln bezbednost
+
+u republic srbij je potrebn definisa sist informacion bezbednost od značaj za nacionaln bezbednost, u sklad sa postojeć nadležnost i dodatn definisan ulog državn i drug tel.
+
+
+3.4.2. razv naučn, tehnološk i industrijsk kapacitet neophodn za zaštit informacion bezbednost republik srbij
+
+informacion bezbednost u funkcij odbran republik srbij se zasniv na organizovan upravljanj znanj u oblast informacion bezbednost i ljud, ka nosioc tog znanj. razv sistem informacion bezbednost stog ka osnovn zadatk im izgradnj, razv i investiranj u sist obrazovanj, obuk, istraživanj i razvoj i investiranj u ljud ka nosioc znanj iz oblast informacion bezbednost u područj odbran. to podrazumev zajedničk predlaganj, usvajanj i implementacij standard i praks koj povećava sigurnost i bezbednost. saradnj akademsk zajednic sa nadležn institucij, uz aktivn učešć privatn sektor, treba bi da bud institucionalizovan kak bi se zajedničk preduzima određen aktivnost u cilj razvoj proizvod, proces i servis rad prevencij i pružanj adekvatn nivo informacion bezbednost. akademsk zajednic sa jedn i privatn sektor sa drug stran svoj stručnost i ekspertiz ukazać na primer dobr praks, naglašava značaj analiz rizik i upravljanj u organizacij kroz organizovanj odgovarajuć obuk, trening, seminar, tribin. obrazovanj stručn kadrov omogućić uspostavljanj bezbedn it rešenj dostupn korisnik.
+akademsk zajednic kroz zajedničk projekt sa javn i privatn sektor uticać na kontinuiran poboljšanj metod identifikacij i utvrđivanj bezbednosn problem, primen adekvatn kontrol, uspostavljanj efikasn komunikacij svih zainteresovan stran i razmen informacij o najbolj praks u drug zemlj. podsticanj saradnj izmeđ naučn zajednic i privred, sa jasn definisan potreb u oblast informacion bezbednost doprineć razvoj tehnologij i uslug u sklad sa prihvaćen međunarodn standard. preduzimanj mer koj će doprinet očuvanj informacion bezbednost u republic srbij od stran svih relevantn subjekt dovešć do unapređenj stanj u ov oblast. pokretanj eksperimentaln okruženj za razv novi tehnologij i servis na univerzitet doprineć razvoj novi rešenj koji će se odgovori na sve brojn izazov u oblast informacion bezbednost.
+
+
+3.4.3. izgradnj vojn kapacitet sistem odbran za odbran od visokotehnološk napad
+
+ministarstv odbran i vojsk srbij će razvit sveobuhvatn sposobnost za odbran u sajber prostor u sklad sa ustavn i zakonsk nadležnost i dodeljen misij i zadac. naveden aktivnost obuhvata uspostavljanj informacion bezbednost i sposobnost za izvođenj odbran u sajber prostor, u okvir delotvorn upotreb snag i funkcionaln sposobnost vojsk srbij, ka osnovn subjekt sistem odbran.
+ministarstv odbran i vojsk srbij su nosioc odbran od pretnj iz informacion prostor svih sistem i resurs u njihov nadležnost na takav način, koj u potpunost omogućav bezbedn i pouzdan upotreb tih sistem i resurs u cilj izvršavanj dodeljen nadležnost, misij i zadatk.
+
+
+posebn je značajn predvidet obavez subjekt sistem odbran na zaštit ikt sistem u vanredn i ratn stanj. takođ, značajn je predvidet angažovanj snag ministarstv odbran i vojsk srbij na pružanj pomoć operator ikt sistem od posebn značaj, u pogled otkrivanj pretnj i adekvatn odgovor sa cilj njihov odbran i sprečavanj ugrožavanj nacionaln bezbednost republik srbij.
+
+3.4.4. izgradnj bezbednosn-obaveštajn kapacitet u oblast informacion bezbednost
+
+služb bezbednost republik srbij će razvit sveobuhvatn sposobnost za  zaštit informacion bezbednost republik srbij u sklad sa zakonsk nadležnost, rad zaštit ikt sistem od posebn značaj, u pogled blagovremen otkrivanj pretnj sa cilj sprečavanj ugrožavanj nacionaln bezbednost republik srbij.
+
+3.5. međunarodn saradnj
+
+širok međusobn povezanost društven, organizacion, tehničk, finansijsk, privredn i drug vrst sistem prek državn granic, koj je zasnovan na primen ikt i sistem, stvar kompleksn međunarodn okruženj u kom se odvij dinamičn interakcij izmeđ raznovrsn subjekt. društven i ekonomsk prosperitet, nacionaln bezbednost i odbran republik srbij direktn i posredn zavis od mrež ikt koj se prostir unutar i izvan nacionaln granic u složen, dinamičn i čest nepredvidljiv okruženj. interakcij zasnovan na ikt je dvosmern i ostvaruj složen direktan i posredan uticaj na nacionaln bezbednost. taj uticaj takođ mora biti regulisan na kompleksan način, kroz različi oblik i sadržaj saradnj na nacionaln i međunarodn nivo.
+uspostavljanj i razv informacion bezbednost na nacionaln nivo može biti ostvaren jedin kroz realizacij sveobuhvatn skup aktivnost koj su istovremen ostvaren i koordinisan na nacionaln i međunarodn nivo. kontakt sa međunarodn partner je višeslojan, aktivn i optimaln, jer obuhvat širok skup državn, nevladin i naddržavn organizacij na političk, tehničk i stručn nivo.
+ključn međunarodn partner republik srbij u tom pogled su organizacij ujedinjen nacij (oun), organizacij za evropsk bezbednost i saradnj (oebs), evropsk un (eu), savet evrop (se), političk, ekonomsk bezbednosn i odbramben organizacij i savez sa koj republik srbij im zaključen sporazum o međusobn saradnj, susedn i tradicionaln saveznic republik srbij.
+za ostvarivanj postavljen ciljev međunarodn saradnj republik srbij neophodn je uspostavi i razvija međunarodn saradnj na bilateraln i multilateraln osnov sa cilj unapređenj nacionaln i međunarodn informacion bezbednost. pored tog, potrebn je uspostavi saradnj u cilj razmen informacij, znanj i iskustv sa inostran mrež nacionaln, profesionaln i međunarodn centr za prevencij bezbednosn rizik u ikt sistem. po mogućstv, republik srbij treba da aktivn učestvuj u međunarodn civiln i vojn vežb čij je cilj uspostavljanj i razv informacion bezbednost na svim nivo.
+
+4. realizacij strategij
+
+realizacij ov strategij pra ministarstv trgovin, turizm i telekomunikacij.
+vlad će donet akcion plan za sprovođenj ov strategij u rok od šest mesec od njen objavljivanj u „služben glasnik republik srbij”.
+
+
+5. završn de
+
+ov strategij objavi u „služben glasnik republik srbij”.
+
+
+05 br: 030-3942/2017-1
+u beograd, 29. maj 2017. godin
+
+
+v l a d a
+
+
+predsednik
+
+aleksandar vučić,s.r.
