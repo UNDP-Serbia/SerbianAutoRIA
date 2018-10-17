@@ -11,6 +11,6 @@ def transliterate_documents():
             with open(output_path, 'w', encoding='utf-8') as output_file:
                 for line in input_file:
                     lat_line = cyrtranslit.to_latin(line)
-                    output_file.write(lat_line)
+                    output_file.write(lat_line.lower())
 
 transliterate_documents()
