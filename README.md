@@ -14,7 +14,11 @@ Therefore, if you wish to avoid the effects of the initial word2vec network rand
 Otherwise, each run of the Experimenter will produce slightly different results.
 
 ## References
-The Serbian AutoRIA project is described in the following blog post:
+If you wish to use Serbian AutoRIA in your paper or project, please cite the following paper:
+
+* **[Using Language Technologies to Automate the UNDP Rapid Integrated Assessment Mechanism in Serbian](http://lt4all.org/media/papers/O5/137.pdf)**, Vuk Batanović, Boško Nikolić, in Proceedings of the International Conference on Language Technologies for All (LT4All), Paris, France (2019).
+
+The Serbian AutoRIA project is also described in the following blog post:
 * [Natural Language Processing to align national plans in Serbia with Global Goals](https://undg.org/silofighters_blog/natural-language-processing-to-align-national-plans-in-serbia-with-global-goals/)
 
 ## Contact info
